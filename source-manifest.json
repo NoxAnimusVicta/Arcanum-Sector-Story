@@ -1,0 +1,34 @@
+{
+  "imported_on": "2026-10-03",
+  "files": [
+    {
+      "sha256": "28f63d2ea5e9acf654ea2836ae8892c225e16a4dcf21cc90ef0402fc301c22ed",
+      "path": "reference/Story-Runner-Handbook.md"
+    },
+    {
+      "sha256": "5b89cafc2fc071993d5787bb2705239a4033248465a01ac5224eb85f036f75f1",
+      "path": "reference/arcanum_sector_map.md"
+    },
+    {
+      "sha256": "c88164dfa6b6b23f1b567233680d1950c2c270c8f583d31235bb493e20213ae4",
+      "path": "reference/sol_subsector_catalog.md"
+    },
+    {
+      "sha256": "03c9904bc1b88d68621d8112e4cdcfa28f0cb8dfd9f1e458730df6115828ef04",
+      "path": "reference/arcanum_sector_catalog.md"
+    },
+    {
+      "sha256": "dfedf08fe2338b963a222d1d9d2adde4dad3a8351bb37dbcecb8ecab0efde541",
+      "path": "reference/arcanum_lore_bible_v7.md"
+    },
+    {
+      "sha256": "91d1b658eda00782d02015ee3741045af044e303b573f4afc2f2437a5d1f1e12",
+      "path": "reference/arcanum_story_tracker.md"
+    },
+    {
+      "sha256": "b62748558527d7552ebc77c6e547962cc65135abf6fd0b93aa362cb17ddb3b72",
+      "path": "src/arcanum_galaxy_map.jsx"
+    }
+  ],
+  "edition": "Public edition: protagonist anonymized; birth-date field removed"
+}
