@@ -4,6 +4,7 @@ Campaign records, setting references, and the interactive Arcanum galaxy map.
 
 ## Start here
 
+- [Confirmed visual references](reference/visual_references.md) — eight supplied illustrations with confirmed species and character labels.
 - [Story tracker](reference/arcanum_story_tracker.md) — current character, resources, projects, and recorded events.
 - [Lore bible v7](reference/arcanum_lore_bible_v7.md) — setting and worldbuilding reference.
 - [Sector map](reference/arcanum_sector_map.md) — geographic and political reference.
@@ -12,7 +13,7 @@ Campaign records, setting references, and the interactive Arcanum galaxy map.
 - [Story Runner Handbook](reference/Story-Runner-Handbook.md) — supplied narration and maintenance preferences.
 - [Interactive galaxy map source](src/arcanum_galaxy_map.jsx).
 
-The supplied story tracker checkpoints at **25 May 2028, approximately 9:49 PM, Day 27**, at the Uluru Complex. This is an in-story date, not the repository update date. No story events were advanced during repository setup.
+The reconciled story tracker checkpoints at **25 May 2028, approximately 9:49 PM, Day 27**, at the Uluru Complex. This is an in-story date, not the repository update date. The broadcast ends at this checkpoint; already-recorded later response reports are labelled separately. No new story actions were added during reconciliation.
 
 ## Run the map
 
@@ -30,11 +31,12 @@ Scroll to zoom, drag to pan, double-click to reset, and click systems for detail
 
 ## Repository layout
 
-- `reference/`: the six supplied Markdown documents, with the protagonist anonymized and birth date removed for public sharing.
-- `src/arcanum_galaxy_map.jsx`: the supplied React map, preserved without content changes.
+- `reference/`: the six supplied documents, reconciled for continuity, plus a confirmed visual-reference index and supplied art. The protagonist is anonymized and the birth date removed for public sharing.
+- `src/arcanum_galaxy_map.jsx`: the React map, with lore-aligned affiliations, calibrated local radial distances, and explicit schematic galactic context.
+- `src/map_systems.json`: shared marker and detailed territory data.
 - `src/main.jsx` and `index.html`: the map's application entry point.
 - `.github/workflows/build.yml`: verifies the production build and saves it as a downloadable artifact.
-- `source-manifest.json`: SHA-256 hashes for the seven published reference and map files.
+- `source-manifest.json`: SHA-256 hashes for the published reference, map data, and art files.
 
 This repository is public and the references contain campaign spoilers. The records combine fictional worldbuilding with astronomical reference material; inclusion does not independently verify scientific claims.
 
@@ -42,7 +44,7 @@ The handbook is reference material. Its embedded startup prompt does not start a
 
 ## Maintenance
 
-Update the relevant source record when continuity changes. Preserve distinctions between setting lore, current events, and provisional ideas; do not silently resolve contradictions between references. Update the source manifest when deliberately replacing imported files.
+Update the relevant source record when continuity changes. Authority order: explicit user corrections; latest enacted events for current state; lore bible v7 for setting lore; derived maps; source research catalogues. Preserve distinctions between setting lore, current events, and provisional ideas. Record reconciliation choices in [Continuity notes](reference/continuity_notes.md). Update the source manifest when deliberately replacing imported files.
 
 Do not commit credentials, private narrator records, or local handover archives. No licence has been added: this setup does not grant new rights over the supplied writing or embedded imagery.
 

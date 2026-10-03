@@ -2,33 +2,77 @@
   "imported_on": "2026-10-03",
   "files": [
     {
-      "sha256": "28f63d2ea5e9acf654ea2836ae8892c225e16a4dcf21cc90ef0402fc301c22ed",
-      "path": "reference/Story-Runner-Handbook.md"
+      "path": "reference/arcanum_lore_bible_v7.md",
+      "sha256": "553638b822fab09f044acee5be417870a1d09fba55310f6ac708dfc391ee873d"
     },
     {
-      "sha256": "5b89cafc2fc071993d5787bb2705239a4033248465a01ac5224eb85f036f75f1",
-      "path": "reference/arcanum_sector_map.md"
+      "path": "reference/arcanum_sector_catalog.md",
+      "sha256": "752282ff899b8f441de8a5a0f9afe1c9524efa0491a53bd4bc9ff7333d34db02"
     },
     {
-      "sha256": "c88164dfa6b6b23f1b567233680d1950c2c270c8f583d31235bb493e20213ae4",
-      "path": "reference/sol_subsector_catalog.md"
+      "path": "reference/arcanum_sector_map.md",
+      "sha256": "0c921d6080ee9a98bdc9b211908af4073b050ccf776059bf5308a457492a63f1"
     },
     {
-      "sha256": "03c9904bc1b88d68621d8112e4cdcfa28f0cb8dfd9f1e458730df6115828ef04",
-      "path": "reference/arcanum_sector_catalog.md"
+      "path": "reference/arcanum_story_tracker.md",
+      "sha256": "35da3a06ada9cb782e6ad04499dc7f986ff8cb7a4bc390719df99b9dde1d452e"
     },
     {
-      "sha256": "dfedf08fe2338b963a222d1d9d2adde4dad3a8351bb37dbcecb8ecab0efde541",
-      "path": "reference/arcanum_lore_bible_v7.md"
+      "path": "reference/art/01-annunaki-ceremonial.jpg",
+      "sha256": "c0287f0679ed95f87a1f4fc153d8f290f677cfff48671be3f8909b72d2b53c35"
     },
     {
-      "sha256": "91d1b658eda00782d02015ee3741045af044e303b573f4afc2f2437a5d1f1e12",
-      "path": "reference/arcanum_story_tracker.md"
+      "path": "reference/art/02-annunaki-armoured.jpg",
+      "sha256": "ffd6295e1c8bdcccce680d8d269d6c33efb3f4687445500551febdfaa9c2094d"
     },
     {
-      "sha256": "b62748558527d7552ebc77c6e547962cc65135abf6fd0b93aa362cb17ddb3b72",
-      "path": "src/arcanum_galaxy_map.jsx"
+      "path": "reference/art/03-lyran.jpg",
+      "sha256": "3b9e9855056f05fae6a9285150b48641c6b2c4e0eb2ffe2c8dfeb3c3fb14dd6b"
+    },
+    {
+      "path": "reference/art/04-lyran-warrior.jpg",
+      "sha256": "7ad407aab08979c9e12d9530968810e5b453314611f28dd68c09abac2ec92b28"
+    },
+    {
+      "path": "reference/art/05-arcturian.jpg",
+      "sha256": "5bd164b5cac9dd0624c23cc4ae9413fe92559396a706ba0e1755d11b7c49a664"
+    },
+    {
+      "path": "reference/art/06-pleiadian.jpg",
+      "sha256": "9f172270350f4effc9a4b2a1c176a04e804850da3fd387c8bc691cd77ae9f96e"
+    },
+    {
+      "path": "reference/art/07-sirian.jpg",
+      "sha256": "a36b437bef1b3829909ba8e073a1b1a03f1b9583102e54ca4bf3c56a6a64b9e7"
+    },
+    {
+      "path": "reference/art/08-protagonist-current.jpg",
+      "sha256": "811188bb6ed2c8125f55ac37242057baa0837a82e8a327e8e33216dee7190070"
+    },
+    {
+      "path": "reference/continuity_notes.md",
+      "sha256": "3014549e8db9fe484f9a258924d7a4a944822cf4c35b58f8c9071b6adbb0faf4"
+    },
+    {
+      "path": "reference/sol_subsector_catalog.md",
+      "sha256": "9c68341a196d6ecfff527b326804565561e5a506a38d1337bb1a3cf0da2506e3"
+    },
+    {
+      "path": "reference/Story-Runner-Handbook.md",
+      "sha256": "28f63d2ea5e9acf654ea2836ae8892c225e16a4dcf21cc90ef0402fc301c22ed"
+    },
+    {
+      "path": "reference/visual_references.md",
+      "sha256": "f99a25bc5805e732bd16f3951275612090747bd155626606cc32690457957def"
+    },
+    {
+      "path": "src/arcanum_galaxy_map.jsx",
+      "sha256": "e73d94c4d894cc61a18b5ace9dd39cb2387500f64517e6199bae9c4258ba48f5"
+    },
+    {
+      "path": "src/map_systems.json",
+      "sha256": "5647a05b33aebf3613f14e853e85b474095782e0362836c5ea18e6a796e49351"
     }
   ],
-  "edition": "Public edition: protagonist anonymized; birth-date field removed"
+  "edition": "Public edition, reconciled 2026-10-04; user-confirmed visual references"
 }

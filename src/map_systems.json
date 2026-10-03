@@ -1,0 +1,189 @@
+[
+  {
+    "id": "sol",
+    "n": "SOL",
+    "x": 400.0,
+    "y": 558.0,
+    "f": "empire",
+    "sz": 5.0,
+    "lbl": "Sol System — Imperial Capital",
+    "d": "Capital of the Annunaki Empire. Nibiru orbits Sol at ~290 AU. The Firmament conceals the system from Earth and the Moon. Earth’s ~8.2 billion humans were unaware until the May 25, 2028 broadcast exposed alien control.",
+    "distanceLy": 0
+  },
+  {
+    "id": "arcturus",
+    "n": "ARCTURUS",
+    "x": 400.099708,
+    "y": 552.615777,
+    "f": "federation",
+    "sz": 4.0,
+    "lbl": "Arcturus — Arcturian Homeworld (Corporian)",
+    "d": "280-million-year-old civilisation. Founders of the Galactic Federation. Zero military vessels — their mining ships could dismantle a fleet. 36.7 ly from Sol.",
+    "distanceLy": 36.7
+  },
+  {
+    "id": "sirius",
+    "n": "SIRIUS",
+    "x": 399.27634,
+    "y": 559.033801,
+    "f": "federation",
+    "sz": 3.5,
+    "lbl": "Sirius — Cosmopolitan Hub",
+    "d": "Officially Federation-aligned but practically fractured. Shadow civil cold war between loyalists and Empire collaborators. 8.6 ly from Sol.",
+    "distanceLy": 8.6
+  },
+  {
+    "id": "pleiades",
+    "n": "PLEIADES",
+    "x": 420.001231,
+    "y": 620.003816,
+    "f": "federation",
+    "sz": 4.0,
+    "lbl": "Pleiades — Pleiadian Sanctuary (Erra)",
+    "d": "Federation warrior culture. ~38 million inhabitants across five worlds (including Erra), plus ~600 million in habitats and outposts. Gate-connected sanctuary. 444 ly from Sol.",
+    "distanceLy": 444
+  },
+  {
+    "id": "draconis",
+    "n": "α DRACONIS",
+    "x": 443.275965,
+    "y": 547.805662,
+    "f": "empire",
+    "sz": 4.5,
+    "lbl": "Alpha Draconis — Reptilian Homeworld (Draask)",
+    "d": "28 billion Reptilians. 800+ warships. The Empire’s enforcement arm. 303 ly from Sol.",
+    "distanceLy": 303
+  },
+  {
+    "id": "vega",
+    "n": "VEGA",
+    "x": 403.082507,
+    "y": 556.011286,
+    "f": "empire",
+    "sz": 3.0,
+    "lbl": "Vega — The Graveyard System",
+    "d": "62-million-year-old Lyran derelict infrastructure. Annunaki-claimed by right of conquest. 25 ly from Sol.",
+    "distanceLy": 25
+  },
+  {
+    "id": "zeta_ret",
+    "n": "ζ RETICULI",
+    "x": 394.519387,
+    "y": 559.793655,
+    "f": "empire",
+    "sz": 3.0,
+    "lbl": "Zeta Reticuli — Grey Homeworld (Rethan)",
+    "d": "Loyalist Nebu faction. Dissident Wanderers cooperate with Federation. 39.3 ly from Sol.",
+    "distanceLy": 39.3
+  },
+  {
+    "id": "eps_eri",
+    "n": "ε ERIDANI",
+    "x": 399.603017,
+    "y": 559.488687,
+    "f": "empire",
+    "sz": 3.0,
+    "lbl": "Epsilon Eridani — Vosk (Imperial Outpost)",
+    "d": "Resource extraction and military staging. 10.5 ly from Sol.",
+    "distanceLy": 10.5
+  },
+  {
+    "id": "tau_ceti",
+    "n": "τ CETI",
+    "x": 400.61311,
+    "y": 559.634959,
+    "f": "neutral",
+    "sz": 2.5,
+    "lbl": "Tau Ceti — Cethari Homeworld (Meranthe)",
+    "d": "Independent Cethari mercantile republic on Meranthe. No confirmed Federation membership. Sublight only; interested in trade. 11.9 ly from Sol.",
+    "distanceLy": 11.9
+  },
+  {
+    "id": "alpha_cen",
+    "n": "α CENTAURI",
+    "x": 399.546583,
+    "y": 557.546583,
+    "f": "neutral",
+    "sz": 2.0,
+    "lbl": "Alpha Centauri — Nommo Diaspora",
+    "d": "Nommo proximi: aquatic diaspora from Sirius on Proxima b. Isolationist, with Sirian kinship but no confirmed Federation membership. FTL reported; method unknown. 4.37 ly from Sol.",
+    "distanceLy": 4.37
+  },
+  {
+    "id": "capella",
+    "n": "CAPELLA",
+    "x": 404.704771,
+    "y": 562.204263,
+    "f": "neutral",
+    "sz": 3.0,
+    "lbl": "Capella — Tall White Territory",
+    "d": "Independent, isolationist Capellans (Tall Whites), an early Lyran divergent branch. No established Imperial affiliation. Homeworld designation undisclosed. ~43 ly from Sol.",
+    "distanceLy": 43
+  },
+  {
+    "id": "61cygni",
+    "n": "61 CYGNI",
+    "x": 401.644119,
+    "y": 557.691728,
+    "f": "neutral",
+    "sz": 2.0,
+    "lbl": "61 Cygni — Manthari Hive (Thurakh)",
+    "d": "Manthari hive civilisation on Thurakh. ~40 billion, of whom ~8–12 million are sapient. Grey-allied biological consultants; not established as Annunaki-controlled. 11.4 ly from Sol.",
+    "distanceLy": 11.4
+  },
+  {
+    "id": "trappist",
+    "n": "TRAPPIST-1",
+    "x": 395.093407,
+    "y": 561.404575,
+    "f": "unknown",
+    "sz": 2.0,
+    "lbl": "TRAPPIST-1 — 7 Rocky Worlds",
+    "d": "Seven rocky worlds; potentially habitable planets. Settlement and faction occupancy remain open questions in lore bible v7. 40.7 ly from Sol.",
+    "distanceLy": 40.7
+  },
+  {
+    "id": "barnards",
+    "n": "BARNARD’S",
+    "x": 400.508314,
+    "y": 557.288361,
+    "f": "unknown",
+    "sz": 1.5,
+    "lbl": "Barnard’s Star — Probable Empire Relay",
+    "d": "Probable automated Annunaki monitoring/relay station; specific installation not confirmed. General Imperial monitoring is assumed near Sol. 5.96 ly from Sol.",
+    "distanceLy": 5.96
+  },
+  {
+    "id": "wolf359",
+    "n": "WOLF 359",
+    "x": 399.005994,
+    "y": 558.596404,
+    "f": "unknown",
+    "sz": 1.0,
+    "lbl": "Wolf 359 — Dark System",
+    "d": "Specific occupancy unknown. Could conceal Imperial monitoring, covert Federation installations, or both. 7.9 ly from Sol.",
+    "distanceLy": 7.9
+  },
+  {
+    "id": "luhman",
+    "n": "LUHMAN 16",
+    "x": 399.128432,
+    "y": 557.612636,
+    "f": "unknown",
+    "sz": 1.0,
+    "lbl": "Luhman 16 — Binary Brown Dwarfs",
+    "d": "Dark binary brown dwarfs. Potential covert staging location, including a possible Federation presence; no confirmed occupant. 6.5 ly from Sol.",
+    "distanceLy": 6.5
+  },
+  {
+    "id": "ross128",
+    "n": "ROSS 128",
+    "x": 398.385923,
+    "y": 558.0,
+    "f": "unknown",
+    "sz": 1.5,
+    "lbl": "Ross 128 — Habitable Zone World",
+    "d": "Quiet red dwarf with a potentially habitable rocky planet. Possible Imperial labour colony or automated infrastructure; actual occupancy unconfirmed. 11 ly from Sol.",
+    "distanceLy": 11
+  }
+]

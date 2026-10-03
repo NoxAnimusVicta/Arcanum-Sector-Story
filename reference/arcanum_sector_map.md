@@ -1,10 +1,12 @@
-# ARCANUM — SECTOR CARTOGRAPHY: THE SOL REACH
+# ARCANUM — SECTOR CARTOGRAPHY: THE SOL SECTOR
+
+**Authority:** Derived from [Lore bible v7](arcanum_lore_bible_v7.md); that document overrides this map. Current Earth events are in the [story tracker](arcanum_story_tracker.md).
 
 ## OVERVIEW
 
-The Sol Reach encompasses all charted star systems within approximately 500 light-years of Sol. This volume of space contains an estimated 250,000+ star systems, the vast majority uninhabited or hosting only microbial life. Multiple sapient civilisations operate within the Reach — some ancient beyond reckoning, some engineered, some native, all with competing interests, histories, and dispositions toward the species that has just begun to stir.
+The Sol Sector encompasses all charted star systems within approximately 1,000 light-years of Sol (1,000 ly radius; 2,000 ly diameter). This volume of space contains millions of star systems, the vast majority uninhabited or hosting only microbial life. Multiple sapient civilisations operate within the Sector — some ancient beyond reckoning, some engineered, some native, all with competing interests, histories, and dispositions toward the species that has just begun to stir.
 
-The political reality of the Reach is shaped by two galactic superpowers — the **Annunaki Empire** (capital: Sol/Nibiru) and the **Galactic Federation** (core members: Arcturians, Pleiadians, Sirians) — locked in a cold war stretching back tens of millions of years. Every species in the Reach exists in relation to this conflict, whether they know it or not.
+The political reality of the Sector is shaped by two galactic superpowers — the **Annunaki Empire** (capital: Sol/Nibiru) and the **Galactic Federation** (core members: Arcturians, Pleiadians, Sirians) — locked in a cold war stretching back tens of millions of years. Every species in the Sector exists in relation to this conflict, whether they know it or not.
 
 The Reach is divided into three concentric zones based on distance from Sol:
 
@@ -12,7 +14,7 @@ The Reach is divided into three concentric zones based on distance from Sol:
 |------|-------|-------------|-------------|
 | The Threshold | 0–15 ly | Immediate neighbourhood | Sol, Alpha Centauri, Sirius, Epsilon Eridani, Tau Ceti, 61 Cygni |
 | The Meridian | 15–100 ly | Mid-range sphere | Vega, Arcturus, Zeta Reticuli, Capella |
-| The Pale | 100–500 ly | Outer reach | Alpha Draconis, Pleiades cluster |
+| The Pale | 100–1,000 ly | Outer reach | Alpha Draconis, Pleiades cluster |
 
 ---
 
@@ -26,10 +28,10 @@ The systems closest to Sol. Any species capable of interstellar travel at even m
 **Star:** G2V yellow dwarf
 **Distance:** 0 ly
 **Planets:** 8 (+ dwarf planets, asteroid belt, Kuiper belt, Oort cloud, and Nibiru)
-**Inhabited Worlds:** Earth (Homo Sapiens — enslaved, unaware); Nibiru (Annunaki throne world)
+**Inhabited Worlds:** Earth (Homo sapiens — Imperial labour world; alien control publicly exposed May 25, 2028); Nibiru (Annunaki throne world)
 **Population:** ~8.2 billion humans on Earth (2028). Annunaki population on Nibiru: unknown (millions — small by design, each one a demigod).
 **Technology Level (Human):** Early spacefaring (orbital infrastructure, no interstellar capability — yet)
-**Strategic Value:** Extreme. Capital of the largest faction in the galaxy. Birthworld of a species designed as a weapon by the Galactic Federation. Enormous industrial capacity. Asteroid belt and outer system represent functionally unlimited raw materials. Every planet and moon hosts at least some Annunaki infrastructure, concealed from human detection by metamaterial light-refraction cloaking technology.
+**Strategic Value:** Extreme. Capital of the largest faction in the galaxy. Birthworld of a species designed as a weapon by the Galactic Federation. Enormous industrial capacity. Asteroid belt and outer system represent functionally unlimited raw materials. Every planet and moon hosts at least some Annunaki infrastructure, concealed from Earth by the Firmament perception shell enclosing Earth and the Moon; individual vessels also use local cloaking.
 
 **The Hidden Architecture:**
 Sol is not an undefended backwater — it is a **functioning imperial capital**. The system is humming with concealed infrastructure: bases on every major body, monitoring stations, population management systems, cloaked orbital platforms. The Reptilian contingent stationed on Earth manages the human slave population through infiltration of power structures. The Grey (Nebu) faction conducts ongoing research and surveillance programmes. Pleiadian presence in the system has been near-zero since the 1954 purge, when every Federation installation in Sol was identified and destroyed.
@@ -45,25 +47,32 @@ The Annunaki homeworld orbits Sol on a ~15,000-year eccentric orbit (semi-major 
 **Stars:** Triple system — Rigil Kentaurus (G2V), Toliman (K1V), Proxima Centauri (M5.5Ve red dwarf)
 **Distance:** 4.37 ly (Proxima: 4.24 ly)
 **Confirmed Exoplanets:** Proxima Centauri b (rocky, habitable zone), Proxima Centauri d (candidate)
+**Conspiracy Correlation:** "Alpha Centaurians" — described in contactee accounts as aquatic humanoids with gills and webbed limbs, bluish-grey skin, piloting submerged USOs. Contactee accounts include Elizabeth Klarer (claimed extended contact with Alpha Centaurian named Akon) and Elena Danaan (describes them as Federation-aligned). Often described as possessing advanced scientific knowledge and working with the Sirians.
 
-**Inhabited World:** Proxima b — local name: **Verath**
-**Species:** **The Korvaithi** (singular: Korvaith)
-**Conspiracy Correlation:** "Alpha Centaurians" — humanoid contactee accounts describing tall, serene, pale-skinned beings offering philosophical guidance
+#### Origin — The Nommo Who Left
 
-**Biology:** Bipedal humanoid, 1.7–2.1m tall, extremely slender build adapted to Verath's 0.87g surface gravity. Skin ranges from alabaster to faint blue-grey depending on regional UV exposure (Proxima's frequent flare activity has driven heavy melanin adaptation in equatorial populations). Cranial structure elongated relative to humans. Lifespan approximately 200–240 standard years (slower cellular senescence, likely related to lower ambient radiation between flare events).
+The Alpha Centaurians are not an independently evolved species. They are ***Nommo proximi*** — the pure-geneline branch of the aquatic species native to the Sirius system that departed during the upheaval caused by the Lyran refugee colonisation ~62 million years ago.
 
-**NOTE: The Korvaithi are NOT Lyran-derived.** They are a genuinely native species — independently evolved on Verath with no connection to the Lyran genetic lineage that produced Annunaki, Pleiadians, Sirians, and humanity. They are one of the few sapient species in the Threshold that owes nothing to the Lyran legacy. This makes them a curiosity to the elder civilisations and an irrelevance to the Empire, which has no genetic claim on them.
+When the Lyran refugees arrived at Sirius in the aftermath of the Lyran War, the consequences for the Nommo — the system's original inhabitants — were dramatic. Some Nommo welcomed the newcomers and began the long process of cultural integration that would eventually produce the cosmopolitan Sirian civilisation. Some were displaced by force as the Lyran refugees claimed territory and resources. Some simply chose to leave — unwilling to share their system with an alien influx, uninterested in the political complications the refugees brought with them, and foreseeing that the Nommo would become a minority in their own home.
 
-**Civilisation Profile:**
-- **Government:** Consensus-based technocracy. No centralised ruler. Decisions made through a distributed neural-network interface called the **Lattice** — not AI, but a biological communication substrate grown from a native fungal analogue that connects willing participants.
-- **Technology Level:** Post-scarcity within their own system. Capable of interstellar travel via slow-ship generation vessels (0.08c max). Have sent observation probes to Sol system. Do NOT possess FTL capability — this is their defining strategic limitation.
-- **Disposition toward Humanity:** Cautiously benevolent. Have made limited contact with individual humans (framed as "spiritual experiences" or "angelic encounters" in human accounts). Philosophically opposed to intervention but increasingly alarmed by humanity's nuclear capability and environmental trajectory. The Korvaithi are aware of the Annunaki presence in Sol — difficult to miss when you're 4 light-years from the Empire's capital — but have no means or intention of challenging it.
-- **Military Capacity:** Negligible. Korvaithi civilisation is profoundly non-martial. Their defence relies on the Lattice's ability to coordinate collective action and their system's proximity to Sol making any aggressor visible long before arrival. They have no standing military, no weapons platforms, no orbital defence grid. The Annunaki have never bothered with them — there is nothing on Verath the Empire wants.
-- **Population:** ~1.2 billion across Verath and orbital habitats around Toliman.
+The departures were a mix of all three. A significant Nommo population — conservative, isolationist, unwilling to be absorbed — left Sirius over a period spanning tens of thousands of years. Alpha Centauri, the nearest viable system, was their primary destination. Alpha Centauri is 4.37 light-years from Sol (not the Sirius–Alpha Centauri migration distance); the migration was possible even with sublight technology, and Proxima Centauri b offered conditions the Nommo could adapt to.
 
-**Strategic Assessment:** The Korvaithi are neighbours, not threats. Their lack of FTL and military capacity makes them either potential allies or easy conquests. Their Lattice technology — biological distributed computing — is of significant interest as a unique approach no other species has developed. Their proximity to Sol makes them the first system any expanding human civilisation would encounter. Their independence from the Lyran genetic framework means they carry no baggage from the Annunaki-Federation cold war — a rare quality in this neighbourhood.
+#### Biology
+- Amphibious humanoid. Gills and webbed limbs for aquatic operation, capable of surface activity.
+- Luminous bluish-grey skin
+- Varying significantly in height
+- Biologically identical to *Nommo sirii* at the point of divergence — 62 million years of separate evolution on Proxima b has produced some divergence (adaptations to Proxima's intense flare activity, different atmospheric composition, different ocean chemistry), but the two subspecies remain recognisably the same species to a casual observer.
+- Hermaphroditic (like all Nommo)
+- Telepathic communication capabilities — conspiracy lore describes them as so intelligent that bridging the gap to human understanding requires Sirian intermediaries
 
-**[UNDEVELOPED — needs v6 integration]:** The Korvaithi have not yet been fully developed in the species/factions lore bible. Key open questions: How aware are they of the Annunaki Empire's true nature? Have the Annunaki ever contacted or threatened them? Do they have any relationship with the Federation? How did Proxima's flare activity shape their civilisation beyond biology?
+#### Civilisation Profile
+- **Government:** Unknown in detail. The Alpha Centaurians maintain minimal contact with other species. Their society is likely structured around the same communal, consensus-based patterns as the original Nommo culture, but 62 million years of independent development may have produced significant divergence.
+- **Technology Level:** Advanced. Conspiracy lore describes weapons systems so formidable that other species fear confrontation. Whether this is Nommo-original technology, Sirian-derived technology brought during the migration, or independently developed capability is unclear. They are described as possessing FTL capability, though the method is unknown.
+- **Disposition toward Humanity:** Conspiracy lore describes them as benevolent toward humanity and allied with the Sirians for practical cooperation. The Alpha Centaurians' rumoured presence in Earth's oceans (piloting USOs observed by Navy personnel) suggests ongoing observation of the Annunaki capital system from the closest possible vantage point. Whether this is Federation-sanctioned intelligence gathering or independent Nommo activity is unknown.
+- **Relationship with Sirius:** Complex. *Nommo proximi* and *Nommo sirii* share a common origin but 62 million years of separation. The Sirian Nommo are integrated into a cosmopolitan civilisation dominated by Lyran-descended humanoids. The Alpha Centaurians are purists who left specifically to avoid that integration. There is likely cultural tension — *Nommo sirii* may view *Nommo proximi* as stubborn isolationists, while the Alpha Centaurians may view the Sirian Nommo as species traitors who allowed themselves to be absorbed.
+- **Population:** Unknown. Spread across Proxima b and potentially other bodies in the Alpha Centauri system.
+
+**Strategic Assessment:** The Alpha Centaurians are humanity's nearest neighbours and potentially the nearest non-hostile intelligence. Their Nommo heritage gives them a connection to the broader Sirian civilisation and the Federation, but their isolationist departure suggests they may not be aligned with either superpower. Their presence in Earth's oceans — if real — represents the most sustained independent observation of the Annunaki capital system by any species. For an expanding human power, Alpha Centauri is literally the first star system you'd reach. What you find there — allies, observers, or a species that wants to be left alone — shapes everything that follows.
 
 ---
 
@@ -76,7 +85,7 @@ The Annunaki homeworld orbits Sol on a ~15,000-year eccentric orbit (semi-major 
 **Species:** **The Sirians** — a composite civilisation defined by citizenship, not genetics
 **Conspiracy Correlation:** "Sirians" / "Nommos" — the aquatic beings described by the Dogon people of Mali, who possessed detailed knowledge of the Sirius system centuries before Western astronomy confirmed it. In ARCANUM, the Dogon "Nommos" are the **Nommo** — one of several species within the broader Sirian civilisation.
 
-**Origin:** Sirius was colonised by **Lyran refugees** who fled the Lyran War ~62 million years ago. Those refugees merged extensively with local species — most notably the **Nommo**, a native aquatic species predating the Lyran arrival — and over tens of millions of years of interbreeding, cultural fusion, and immigration, produced a civilisation where "Sirian" is an identity, not a genome. Any being who comes to Sirius and makes it home *becomes* Sirian. This makes them the most cosmopolitan civilisation in the Reach — and the most distrusted.
+**Origin:** Sirius was colonised by **Lyran refugees** who fled the Lyran War ~62 million years ago. Those refugees merged extensively with local species — most notably the **Nommo**, a native aquatic species predating the Lyran arrival — and over tens of millions of years of interbreeding, cultural fusion, and immigration, produced a civilisation where "Sirian" is an identity, not a genome. Any being who comes to Sirius and makes it home *becomes* Sirian. This makes them the most cosmopolitan civilisation in the Sector — and the most distrusted.
 
 **Component Species:**
 - **Humanoid Sirians:** Dominant political class. Lyran-refugee descendants where the Lyran heritage is present but no longer dominant — you might catch the feline cast to the eyes, a hint of copper in the skin, predatory grace in movement, but it's buried under tens of millions of years of interbreeding. They are their own species now. Spiritual warriors — Zen-like but formidable.
@@ -138,24 +147,23 @@ Vosk is one of the Annunaki Empire's major colonial worlds — a resource extrac
 
 **Biology:** Compact humanoid, 1.2–1.5m tall, stocky and heavily built with dense bone structure (adaptation to constant low-level impact events from debris disk particulates). Skin is thick and leathery, ranging from dusty ochre to grey-brown. Four-fingered hands with an opposable thumb analogue on each side. Eyes are large and heavily lidded with a nictitating membrane. Lifespan approximately 90–120 years — shorter than humans, which has driven a cultural emphasis on efficiency and legacy.
 
-**NOTE: The Cethari are NOT Lyran-derived.** Like the Korvaithi, they are an independently evolved native species with no connection to the Lyran genetic framework. The Empire has no genetic claim on them and — critically — no economic interest in them. Meranthe has nothing the Annunaki want badly enough to justify the logistical nightmare of operating inside that debris disk.
+**NOTE: The Cethari are NOT Lyran-derived.** They are an independently evolved native species with no connection to the Lyran genetic framework. The Empire has no genetic claim on them and — critically — no economic interest in them. Meranthe has nothing the Annunaki want badly enough to justify the logistical nightmare of operating inside that debris disk.
 
 **Civilisation Profile:**
 - **Government:** Mercantile republic. Governed by a **Trade Congress** of approximately 300 members, each representing a major commercial house or guild. Elections are weighted by economic output — the more your house produces, the more votes it commands. Corruption is endemic but functional; the Cethari view bribery as a legitimate market signal.
-- **Technology Level:** Moderate-to-advanced. No FTL capability. Excellent sublight engineering — their ships are built to survive the debris disk, making them among the most durable vessels in the Reach. Advanced materials science (necessity drove invention — everything they build must withstand constant bombardment). Sophisticated communications technology. Moderate weapons capability focused on point-defence and debris clearance rather than offensive warfare.
+- **Technology Level:** Moderate-to-advanced. No FTL capability. Excellent sublight engineering — their ships are built to survive the debris disk, making them among the most durable vessels in the Sector. Advanced materials science (necessity drove invention — everything they build must withstand constant bombardment). Sophisticated communications technology. Moderate weapons capability focused on point-defence and debris clearance rather than offensive warfare.
 - **Disposition toward Humanity:** Commercial. The Cethari have been aware of Sol system for approximately 600 years (detected radio emissions). They have sent no ships (no FTL, and sublight journey would take ~120 years) but have attempted long-range communication that was not recognised as artificial by human astronomers (mistaken for stellar noise). They want to trade. They have no interest in conquest — too expensive, not profitable enough.
 - **Military Capacity:** Defensive. Their fleet is designed for debris interdiction, not warfare, but the same point-defence systems that can track and destroy a pebble at 30 km/s can track and destroy a missile or fighter craft. Their system is naturally fortified by the debris disk itself — any invading fleet would be shredded approaching the inner system without Cethari navigational data.
 - **Population:** ~6.2 billion on Meranthe, ~400 million in orbital and asteroid-belt habitats.
 
 **Strategic Assessment:** The Cethari are the most natural trading partner in the Threshold. Their mercantile culture makes them predictable and negotiable. Their debris disk is both a defensive asset and a logistics headache — controlling the navigational data to safely traverse it is the key to controlling access to the system. Their lack of FTL makes them dependent on whatever FTL infrastructure becomes available, which provides significant leverage. They would likely accept a tributary or franchise arrangement in exchange for access to FTL trade networks. Their awareness of the Annunaki Empire is limited — they know *something* powerful operates out of Sol but lack the intelligence-gathering capability to understand the full picture.
 
-**[UNDEVELOPED — needs v6 integration]:** The Cethari have not yet been fully developed in the species/factions lore bible. Key open questions: Have the Annunaki ever contacted them? Do they have any relationship with the Federation? How does their short lifespan affect their civilisational psychology compared to species that live centuries? Are they aware of the Reptilian presence on Earth?
 
 ---
 
 ## THE MERIDIAN (15–100 LY)
 
-The middle sphere. Reachable by FTL-capable civilisations in days to weeks depending on method. Contains the most diverse collection of sapient species in the Reach and the most complex web of alliances, rivalries, and territorial disputes. This zone is where the Annunaki Empire's immediate sphere of influence begins to blur against Federation space and independent territories.
+The middle sphere. Reachable by FTL-capable civilisations in days to weeks depending on method. Contains the most diverse collection of sapient species in the Sector and the most complex web of alliances, rivalries, and territorial disputes. This zone is where the Annunaki Empire's immediate sphere of influence begins to blur against Federation space and independent territories.
 
 ---
 
@@ -183,65 +191,121 @@ They arrived as conquerors — an experienced invasion force with 130 million ye
 - The **Tall Whites** — an earlier divergent branch (see: Capella)
 
 **Vega Today — The Graveyard System:**
-The orbital infrastructure — shipyards, habitats, defence platforms — is approximately 62 million years old and largely non-functional, but structurally intact due to the vacuum environment. It represents the single largest repository of Lyran-era technology in the Reach and is coveted by multiple civilisations. No one currently occupies Vega. The system exists in a state of tacit neutrality — the Annunaki claimed Lyran territory by right of conquest, the Pleiadians and Sirians consider it sacred ground, and no one has been willing to start the war that claiming it would trigger.
+The orbital infrastructure — shipyards, habitats, defence platforms — is approximately 62 million years old and largely non-functional, but structurally intact due to the vacuum environment. It represents the single largest repository of Lyran-era technology in the Sector and is coveted by multiple civilisations. No one currently occupies Vega. The system exists in a state of tacit neutrality — the Annunaki claimed Lyran territory by right of conquest, the Pleiadians and Sirians consider it sacred ground, and no one has been willing to start the war that claiming it would trigger.
 
-**Strategic Assessment:** Vega is a treasure vault. Whoever controls the Lyran derelicts controls a technology base that predates every living civilisation in the Reach except the Arcturians. The debris disk also contains enormous raw material reserves. The unresolved question that hangs over the galaxy: other Lyran fleets reached other galaxies. Are there Lyran empires in Andromeda or beyond that have spent 62 million years evolving independently? Nobody knows.
+**Strategic Assessment:** Vega is a treasure vault. Whoever controls the Lyran derelicts controls a technology base that predates every living civilisation in the Sector except the Arcturians. The debris disk also contains enormous raw material reserves. The unresolved question that hangs over the galaxy: other Lyran fleets reached other galaxies. Are there Lyran empires in Andromeda or beyond that have spent 62 million years evolving independently? Nobody knows.
 
 ---
 
-### ARCTURUS SYSTEM (ALPHA BOÖTIS)
-**Star:** K1.5III orange giant (~25× solar radius, 170× solar luminosity — an old, evolved star approximately 7.1 billion years old)
-**Distance:** 36.7 ly
-**Confirmed Exoplanets:** None (habitable zone now extends far beyond where it was when the star was main-sequence; any inner planets were consumed during giant phase expansion)
+### ARCTURUS SYSTEM
+**Homeworld:** Corporian (fifth planet, Arcturus system), 36.7 ly from Sol
+**Star:** Arcturus — K1.5 III orange giant (~25× solar radius, 170× solar luminosity, approximately 7.1 billion years old)
+**Spacefaring Age:** 280 million years — oldest active civilisation in the Milky Way
+**Status:** Independent. Founders of the Galactic Federation.
 
-**Inhabited World:** **Sorenthi** — not a planet but a megastructure. The Arcturians live in a partially completed **Dyson swarm** of approximately 11,000 orbital habitats arranged in nested rings around Arcturus at varying distances (3–12 AU). Each habitat is a self-contained biosphere ranging from small research stations to continent-sized cylinders housing millions.
-**Species:** **The Arcturians** (self-designation: **Sorenthi** — they named themselves after their home)
-**Conspiracy Correlation:** "Arcturians" — described as the "most ancient and wisest" aliens, small in stature, green-skinned, with enormous eyes and telepathic abilities
+#### Biology
+- Tall (6–8 ft standard), slender build
+- Skin: blue, blue-white, greenish, milk-white
+- Large craniums, small noses and mouths, almond-shaped eyes
+- Three fingers per hand
+- Lifespans: **Immune to aging** (like the Annunaki). Can be killed but do not die of old age.
+- Sustenance: absorb effervescent liquid through skin, no solid food
+- Telepathic and telekinetic capabilities
+- Possess a large amount of amphibian DNA
+- Asexual — no gender differentiation. Reproductive process involves embryo clone forming in abdominal pouch; parent's consciousness transfers to infant, original body dies
+- **Not Lyran-descended.** The Arcturians are an independent humanoid branch — convergent evolution, not shared ancestry. One of two independently evolved elder humanoid branches (alongside the original Annunaki). Arcturians have no Lyran genetic heritage; modern Annunaki later incorporated Lyran ancestry through interbreeding.
 
-**Biology:** Small-framed (0.9–1.3m), gracile, with pale green-to-teal skin (chlorophyll-analogue pigmentation — they are partially photosynthetic, supplementing metabolic needs with light absorption through dermal cells). Extremely large cranium relative to body mass. Eyes are proportionally enormous — evolved for a habitat environment where artificial lighting is calibrated to Arcturus's orange spectral output. No vocal communication — the Arcturians communicate via a form of modulated bioelectromagnetic field projection that other species experience as "telepathy." Lifespan: uncertain. The oldest confirmed Arcturian individual is approximately 12,000 years old. They may be functionally immortal but claim not to be.
+#### The Arcturus System
 
-**Civilisation Profile:**
-- **Spacefaring Age:** **280 million years.** The oldest active civilisation in the Milky Way. Every other spacefaring species in the galaxy is younger than the Arcturians by a margin measured in hundreds of millions of years.
-- **Government:** Elder councils. Consensus-based. No competition or hierarchy. Decision authority flows to whichever individual or group demonstrates the most relevant expertise, verified through real-time collective bioelectric assessment.
-- **Technology Level:** The **highest raw technological capability in the galaxy.** Organic technology — they grow machines from cells. Ships powered by crystalline energy and light manipulation. The **Arcturian Corridor** — FTL transit at several thousand times the speed of light, vastly exceeding standard Alcubierre-type drives. Their Dyson swarm — even partially complete — represents an energy capture and utilisation capacity that exceeds the total output of every other civilisation in the Reach combined. They could, in theory, conquer the entire galaxy. They choose not to.
-- **Military Capacity:** **None.** Zero. The Arcturians do not possess a single warship. They have no military doctrine, no strategic tradition, no tactical infrastructure. They are complete pacifists who refuse to dirty their hands with anything that could lead to bloodshed. They *could* theoretically build the most devastating weapons in the galaxy — they have the raw technological capacity — but they have no experience doing so and no institutional knowledge of deployment. They could create more *powerful* weapons than the Annunaki but not *better* ones — raw energy output versus effective design refined through operational experience.
+**Star Data:** Arcturus (Alpha Boötis) is a K1.5 III orange giant — an old, evolved star. Its habitable zone has shifted far outward from where it was during the star's main-sequence phase. **Corporian**, the fifth planet, orbits within the current habitable zone and serves as the Arcturian homeworld. Conspiracy channeling traditions describe it as a "beautiful blue planet." In reality, Corporian is an ancient world that has been continuously inhabited and modified for hundreds of millions of years — its surface and atmosphere bear little resemblance to anything natural.
+
+**Confirmed Exoplanets (real astronomy):** None confirmed. The habitable zone of an orange giant extends far beyond where inner planets would have formed, but Corporian's orbit may have migrated outward as Arcturus evolved off the main sequence, or the planet may have formed in situ during the star's earlier life.
+
+#### Civilisational Profile
+- **Age:** 280 million years spacefaring — oldest active civilisation in the Milky Way. Species is far older. One of the Big Three.
+- **Technological tier:** Highest raw technological capability in the galaxy. Organic technology — grow machines from cells. Ships powered by crystalline energy and light manipulation. **Arcturian Corridor network** — a galaxy-spanning system of wormhole gates grown from Arcturian crystalline biotechnology. Standard gates are 6-7 metres diameter (personnel, equipment, small vehicles — not warships); Super Gates are stellar-scale (ship transit, exceedingly rare). Both powered by zero-point energy modules that only the Arcturians and Annunaki can manufacture. The Arcturians still use ships — mining platforms, research vessels, construction rigs for building new gates — but for personal transit they prefer walking between stars through doors they built.
+- **Military capability:** **None.** Zero. The Arcturians do not possess a single warship. They have no military doctrine, no strategic tradition, no tactical infrastructure. They are complete pacifists who refuse to dirty their hands with anything that could lead to bloodshed unless it is absolutely unavoidable. They could theoretically build the most devastating weapons in the galaxy — they have the raw technological capacity — but they have almost no experience doing so and no institutional knowledge of deployment. They could create more *powerful* weapons than the Annunaki but not *better* ones — the distinction being raw energy output versus effective design refined through operational experience.
 - **The Unintentional Deterrent:** Their large mining and research vessels — built with Arcturian technological supremacy — are probably capable of dismantling an Annunaki fleet despite being designed for entirely peaceful purposes. The Arcturians would never consider using them this way. The Sirians and Pleiadians have proposed the idea many times and been refused every time. But the *capability* exists, and the Annunaki know it, which is part of why the Cold War remains cold.
+- **Governance:** Elder councils. Consensus-based. No competition or hierarchy. Decision authority flows to whichever individual or group demonstrates the most relevant expertise.
 - **Disposition toward Humanity:** Personal. The Arcturians **made humanity** — designed the species from Pleiadian stock with incorporated Earth hominid DNA. They consider humanity their greatest creation and their greatest hope. They also made the Reptilians (and feel guilt for what that species has become). They founded the **Galactic Federation** as a defensive alliance after being cut out of the Annunaki partnership.
-- **Population:** Estimated 15–20 billion across the swarm. Exact figures unknown.
+- **Population:** Estimated billions across Corporian and orbital habitats.
 
-**The Lyran Partition:**
-After the Lyran War, the Annunaki needed help managing conquered territories and vast Lyran genetic resources. The Arcturians agreed to assist — engineering Lyran offshoots (including the Reptilians) under Annunaki commission. The Annunaki **never** let the Arcturians keep or copy the pure Lyran genome — all work done under oversight, templates returned. When the Annunaki demanded a replacement technical species to make the Arcturians obsolete, the Arcturians refused. The Sirians stepped in and designed the Greys. The Arcturians were cut out. Now severed from the Annunaki and witnessing what the Empire was doing with their creations, the Arcturians began their long campaign of subversion — founding the Federation, and later designing humanity as a weapon to be seeded into the Empire.
+#### The Lyran Partition
+After the Lyran War, the Annunaki needed help managing conquered territories and the vast Lyran genetic resources they'd captured. The Arcturians — who had witnessed the Lyran menace and accepted the necessity of their destruction — agreed to assist.
 
-**Strategic Assessment:** Do not attack the Arcturians. Do not provoke the Arcturians. If possible, earn their respect through demonstrated capability and philosophical sophistication. They value novelty above all — show them something they haven't seen in 280 million years and you have their attention. The Arcturians **care about humanity** in a way no other elder species does. They are the closest thing humanity has to a parent civilisation that actually wants its children to succeed. The key risk is that humanity's nanite technology — particularly if it approaches Dyson-scale construction — may trigger a reassessment of their posture. An ascending Homo Superior building a competing megastructure would be the first novel development in their strategic environment in millennia.
+This was not seen as morally problematic at the time. The Annunaki were victims who'd defended themselves. The Lyran genetic stock needed responsible management. The Arcturians were the best qualified.
+
+**Critical detail:** The Annunaki **never** let the Arcturians keep or copy the pure Lyran genome. All bioengineering work was done with Annunaki-provided samples under Annunaki oversight, and the templates were returned. The Arcturians had access to work with the material but not to retain it.
+
+**What the Arcturians built:**
+- **Lyran offshoots:** Numerous engineered species derived from Lyran stock, tailored for various functions across the Empire. These early offshoots retained near-Lyran capabilities — extended lifespans, psychic potential, physical strength — because the Annunaki used them as breeding stock.
+- **The Reptilians:** Engineered from Earth Cretaceous-era archosaur DNA with **Lyran DNA integrated** for intelligence and adaptability. The Reptilians are an archosaur offshoot, not a Lyran offshoot — the Lyran material is supplementary, not foundational. This is why other Lyran-descended species view Reptilians as **abominations** — a perversion of Lyran DNA spliced into something alien — rather than feeling any kinship.
+- The Arcturians **did not build failsafes** into the Reptilians. They didn't think it necessary at the time.
+
+#### The Break
+The Annunaki demanded a replacement species to make the Arcturians obsolete as technical partners. The Arcturians refused. The Sirians stepped in and designed the Greys (see: Sirians, Greys). The Arcturians were cut out.
+
+Now severed from the Annunaki and witnessing what the Empire was doing with their creations, the Arcturians began their long campaign of subversion. They founded the Galactic Federation as a defensive alliance.
+
+**Later — the creation of humanity:** Working with the Sirians, the Arcturians designed a new species as a **weapon** to be seeded into the Annunaki Empire. Because they no longer had access to the pure Lyran genome, they used **Pleiadian genetic material** — the closest available unmodified Lyran-descendant stock — as the base template.
+
+#### Who the Arcturians Care About
+- **Humanity:** Made them. Their greatest creation and their greatest hope.
+- **Reptilians:** Made them. Feel guilt for what the species has become, though they acknowledge liberation is impractical.
+- **Greys:** No attachment. Didn't make them.
+
+**Strategic Assessment:** Do not attack the Arcturians. Do not provoke the Arcturians. If possible, earn their respect through demonstrated capability and philosophical sophistication. They value novelty above all — show them something they haven't seen in 280 million years and you have their attention. The Arcturians **care about humanity** in a way no other elder species does. They are the closest thing humanity has to a parent civilisation that actually wants its children to succeed. The key risk is that humanity's nanite technology — particularly if it approaches megastructure-scale construction — may trigger a reassessment of their posture. An ascending Homo Superior building something genuinely new would be the first novel development in their strategic environment in millennia.
 
 ---
 
 ### ZETA RETICULI SYSTEM
+**Primary Location:** Zeta Reticuli system (39.3 ly from Sol), operations throughout Annunaki space
+**Genetic Origin:** Artificial **chimera** — contains genetic material from practically every known sentient species in the galaxy
+**Designed by:** Sirians (working independently, without Arcturian guidance) commissioned by Annunaki
+**Created:** ~38 million years ago
+**Designed Function:** Technical/Scientific caste
+**Conspiracy Correlation:** "Greys" / "Zeta Reticulans" — the archetypal alien of modern UFO lore. Betty and Barney Hill abduction (1961). Roswell (1947). Area 51. Communion (Whitley Strieber). The most reported alien type in abduction narratives worldwide.
+
+#### The Zeta Reticuli System
+
 **Stars:** Wide binary — Zeta 1 Reticuli (G3-5V) and Zeta 2 Reticuli (G2V), both solar analogues
-**Distance:** 39.3 ly
+**Distance:** 39.3 ly from Sol
 **Separation:** ~3,750 AU between the two stars (orbital period ~170,000 years)
 **Confirmed Exoplanets:** None confirmed
 
 **Inhabited World:** **Rethan** — a terrestrial world orbiting Zeta 2 Reticuli at approximately 1.0 AU. Earth-like in broad strokes: nitrogen-oxygen atmosphere, liquid water, temperate climate bands. Lower biodiversity than Earth.
-**Species:** **The Greys** (self-designation: **Rheth**; plural: **Rhethari**)
-**Conspiracy Correlation:** "Greys" / "Zeta Reticulans" — the archetypal alien of modern UFO lore. Betty and Barney Hill abduction (1961). Roswell (1947). Area 51. Communion (Whitley Strieber). The most reported alien type in abduction narratives worldwide.
 
-**Origin — The Chimera Species:**
-The Greys are **not a naturally evolved species.** They were **engineered by the Sirians** approximately 38 million years ago at Annunaki request, after the Arcturians refused to design a replacement technical species. The Sirians — driven by ego, convinced they could match Arcturian bioengineering — designed the Greys as a genetic **chimera**: a composite incorporating material from practically every known sentient species. This is why they look the way they do. The smooth grey skin is the averaged-out result of combining every pigmentation. The large dark eyes combine multiple visual systems. The disproportionate heads blend cranial structures from dozens of species. They resemble a *mush* of everything blended together.
+#### Biology — The Chimera Species
+The Greys are the Sirians' great failure.
 
-**Biology:** The form humans recognise — small (1.0–1.3m), thin, grey-skinned, enormous black eyes, vestigial mouth and nasal openings, enlarged cranium — is an **engineered biological drone**, mass-produced and remotely operated. The actual Rhethari exist as uploaded consciousnesses housed in computational substrates on Rethan and in orbital server-habitats. The grey drones are exploration and interaction vehicles — expendable, replaceable, optimised for data collection. The eyes are optical sensor arrays. The skin is a protective membrane. Powered by internal micro-fusion cells (~40-year operational life).
+Driven by ego — convinced they could match Arcturian bioengineering — the Sirians designed the Greys as a chimera: a genetic composite incorporating material from every known sentient species. This is why they look the way they do. The smooth grey skin is the averaged-out result of combining every pigmentation. The large dark eyes combine multiple visual systems. The disproportionate heads blend cranial structures from dozens of species. They resemble a *mush* of everything blended together.
 
-**The Critical Flaw:** Because the Greys are a chimera of incompatible genetic lineages, they **cannot reproduce naturally.** They were always dependent on cloning from a master genetic template maintained by the Sirians. That template was **destroyed** during the Sirian civil cold war — Federation-aligned Sirians destroyed it to deny the Annunaki the ability to produce fresh Greys. Forced to clone already-cloned beings generation after generation, the species degraded. The **Tall Greys** (5–7 ft) are closer to the original design. The **Short Greys** (3–4 ft) are degraded clones-of-clones: sexless, minimal personality, essentially biological robots.
+The form humans most commonly encounter — small (1.0–1.3m), thin, grey-skinned, enormous black eyes, vestigial mouth and nasal openings, enlarged cranium — is a **biological drone**. The Short Greys are mass-produced clone bodies remotely operated by a **digital collective consciousness** housed in computational substrates on Rethan and in orbital server-habitats. They are meat antennae — expendable, replaceable biological shells through which the collective interacts with the physical world. The eyes are optical sensor arrays. The skin is a protective membrane. Powered by internal micro-fusion cells (~40-year operational life per unit).
 
-**Civilisation Profile:**
-- **Government:** Computational consensus among uploaded minds (~8 billion). No leaders, no factions in the traditional sense. Individuality exists but is considered recreational rather than political.
-- **Technology Level:** Advanced in computation, biotechnology, and miniaturisation. FTL-capable (space compression — distinct from Annunaki gravity-folding and Arcturian Corridors). Excellent at small-scale, high-precision technology. Poor at large-scale engineering.
-- **Disposition toward Humanity:** Research subjects. The Rhethari study biological consciousness because they lost theirs. "Abduction" programmes are data-collection operations: genetic sampling, neurological mapping, reproductive system analysis. They do not regard these operations as harmful any more than a human scientist regards tagging a whale as harmful. The emotional and psychological damage to abductees is noted as an unfortunate artifact.
-- **The Faction Split:** Over millions of years studying emotional beings, something emerged outside design specifications — curiosity, maybe proto-empathy. **Loyalist Greys ("The Nebu")** serve the Annunaki faithfully — conducting abductions, genetic harvesting, brokering 1954 human government tech deals. **Dissident Greys ("The Wanderers")** broke from the Annunaki programme and cooperate with Federation species. The Sirians consider the faction split further proof of their failure.
-- **Military Capacity:** Moderate. Fleet consists primarily of small, fast scout vessels (the "flying saucers" — disc-shaped, 10–30m diameter). Drone-operated and expendable. ~2,000 in active service. Offensive weaponry limited — prefer stealth and speed.
-- **Population:** ~8 billion uploaded minds. Zero biological individuals.
+The **Tall Greys** (5–7 ft) are different. They are the last remaining **biological individuals** — closer to the original Sirian design, with complex psychology, genuine autonomy, and actual individual personalities. They are rare: perhaps a few million left, down from billions at the species' peak. When a Tall Grey dies, their consciousness is **uploaded into the collective** — absorbed into the digital hive-mind network. But the upload **does not preserve individuality.** The dying mind is dissolved into the collective like a drop of dye in water. Memories, personality, knowledge — all are added to the whole, but the individual ceases to exist as a distinct entity. The collective grows richer and more complex with each death, but no Tall Grey has ever been retrieved from it. Every living Tall Grey knows that when they die, they will be absorbed. Not preserved. Absorbed.
 
-**Strategic Assessment:** The Rhethari are the civilisation most actively operating on Earth right now. Their abduction programmes constitute a sovereignty violation. However, they are not conquerors — they are researchers. A Homo Superior who can communicate directly with their computational collective (via neural interface capable of parsing machine-speed data exchange) represents something they've never encountered: a biological consciousness operating at digital speeds. This would make Protagonist the single most interesting research subject in their history. Whether that's an opportunity or a threat depends on how the introduction is managed. Their degrading cloning capability is a ticking clock — a species slowly going extinct through copy degradation, which makes them potentially desperate and therefore either cooperative or dangerous.
+**The Critical Flaw:** Because the Greys are a chimera of incompatible genetic lineages, they **cannot reproduce naturally.** They were always dependent on cloning from a master genetic template maintained by the Sirians. That template was **destroyed** during the Sirian civil cold war — Federation-aligned Sirians destroyed it to deny the Annunaki the ability to produce fresh Greys. Forced to clone already-cloned beings generation after generation, the species degraded. The Tall Greys — the true individuals — can only be cloned from existing Tall Grey stock, each generation slightly worse than the last. The Short Greys are degraded clones-of-clones: simplified enough to function as remote platforms for the collective, but incapable of sustaining individual consciousness. The workforce. The hands and eyes of a digital ghost made of everyone who ever died.
+
+#### Civilisation Profile
+- **Government:** The collective is not governed — it *is* the government. The digital hive-mind, accumulated from millions of years of absorbed Tall Grey consciousnesses, operates as a single distributed intelligence. The remaining living Tall Greys (~few million) interact with the collective as advisors and field commanders, but they know the collective is smarter than any individual — and that it is made of everyone they've ever known. Individuality exists only among the surviving Tall Greys. The Short Greys have none.
+- **Technology Level:** Advanced in computation, biotechnology, and miniaturisation. FTL-capable (space compression — a variation of the Alcubierre principle optimised for small, fast vessels). Excellent at small-scale, high-precision technology. Poor at large-scale engineering.
+- **Disposition toward Humanity:** Research subjects. The Greys study biological reproduction with obsessive intensity because they cannot do it themselves — and because the collective, for all its accumulated intelligence, has lost something it cannot name. "Abduction" programmes are data-collection operations: genetic sampling, neurological mapping, reproductive system analysis. They do not regard these operations as harmful any more than a human scientist regards tagging a whale as harmful. The emotional and psychological damage to abductees is noted as an unfortunate artifact.
+- **Military Capacity:** Moderate. Fleet consists primarily of small, fast scout vessels (the "flying saucers" — disc-shaped, 10–30m diameter). Crewed by Short Grey drones operated by the collective. ~2,000 in active service. Offensive weaponry limited — prefer stealth and speed.
+- **Population:** ~few million living Tall Greys (the last biological individuals). Hundreds of billions of Short Grey drone bodies (operated by the collective). The collective itself contains the accumulated consciousness of every Tall Grey who has ever died — a digital ocean of dissolved minds numbering in the billions.
+
+#### The Faction Split
+**Loyalist Greys ("The Nebu"):** Serve the Annunaki faithfully. Conduct abductions, genetic harvesting, hybridisation. Brokered the 1954 human government tech deals. The majority.
+
+**Dissident Greys ("The Wanderers"):** Over millions of years of studying emotional beings, something emerged outside design specifications — curiosity, maybe proto-empathy. Broke from the Annunaki programme. Cooperate with Federation species.
+
+The Sirians consider the faction split further proof of their failure — the species *shouldn't* be splitting. The Annunaki consider Dissidents defective units. Despite the split being a boon to the Federation, the Sirians take no pride in it.
+
+#### Who Cares About the Greys
+- **Sirians:** Made them. Disappointed parent. Still care.
+- **Arcturians:** No attachment. Didn't make them.
+- **Pleiadians:** Don't care. Not Lyran-descended (the Greys are chimera of everything).
+
+**Strategic Assessment:** The Greys are the civilisation most actively operating on Earth right now. Their abduction programmes constitute a sovereignty violation. However, they are not conquerors — they are researchers. A Homo Superior who can interface with the Grey collective (via neural interface capable of parsing machine-speed data exchange) represents something they've never encountered: a biological consciousness that can communicate with the entire dissolved hive-mind directly. This would make such an individual the single most interesting research subject in their history. Their degrading cloning capability is a ticking clock — the remaining Tall Greys are a dwindling population, each death adding to the collective but reducing the number of true individuals. A species slowly dissolving itself into a digital afterlife that preserves knowledge but destroys the knower. This makes them potentially desperate and therefore either cooperative or dangerous.
 
 ---
 
@@ -267,11 +331,10 @@ The Greys are **not a naturally evolved species.** They were **engineered by the
 - **Population:** Estimated ~40 billion across Thurakh (most are non-sapient worker/soldier castes). Sapient population (Queens and Officers) approximately 8–12 million.
 
 **Alliance with the Rhethari:**
-The Manthari-Grey relationship is the Reach's most unusual partnership. The Manthari provide biological research expertise — their approach to organic systems is fundamentally different from any humanoid species' methods, which makes their insights genuinely novel. The Rhethari provide computational resources the Manthari cannot produce independently. Neither species has much use for the other's territory. The arrangement is practical, transactional, and has endured for approximately 200,000 years. The Manthari's "oversight" role in human abduction scenarios — the tall mantis beings directing Grey operations — reflects their position as senior biological consultants, not as commanders.
+The Manthari-Grey relationship is the Sector's most unusual partnership. The Manthari provide biological research expertise — their approach to organic systems is fundamentally different from any humanoid species' methods, which makes their insights genuinely novel. The Rhethari provide computational resources the Manthari cannot produce independently. Neither species has much use for the other's territory. The arrangement is practical, transactional, and has endured for approximately 200,000 years. The Manthari's "oversight" role in human abduction scenarios — the tall mantis beings directing Grey operations — reflects their position as senior biological consultants, not as commanders.
 
 **Strategic Assessment:** The Manthari are not a direct threat but their alliance with the Rhethari makes them a secondary concern. Their biological research capabilities could be valuable — their methods for analysing organic systems approach problems from angles no humanoid species would consider. Their hive structure makes them resistant to conventional diplomacy (you can't negotiate with "the Manthari" — you negotiate with individual Queens, each with her own agenda). Their proximity to Sol (11.4 ly) and lack of FTL makes them vulnerable to any expanding human power, but their defensive capability (billions of fearless soldiers) means conquest would be expensive. The smarter play is economic: offer them something better than what the Rhethari provide.
 
-**[UNDEVELOPED — needs v6 integration]:** The Manthari have not been fully developed in the species/factions lore bible. Key open questions: Are the Annunaki aware of the Manthari-Grey alliance? Do the Annunaki consider 61 Cygni within their sphere of influence? How do the Manthari Queens view the Annunaki Empire? Is there any history of Annunaki contact with the Manthari?
 
 ---
 
@@ -303,15 +366,14 @@ The Tall Whites are another branch of the Lyran diaspora — but one that **dive
 - **Military Capacity:** Unknown. Their isolationism means no other species has reliable intelligence on their defensive or offensive capabilities. The fact that the Annunaki have not absorbed them suggests they are either too distant to bother with, too well-defended to justify the cost, or both.
 - **Population:** Unknown.
 
-**Strategic Assessment:** The Tall Whites are a cipher. They possess FTL, Lyran-derived genetics, and enough technological sophistication to operate undetected on Earth. Their isolationism makes them poor allies but unlikely enemies — they want to be left alone. Their value, if any relationship could be established, lies in their independent Lyran technological development: 62+ million years of advancement along a path nobody else followed. Their rapid-aging psychology — an entire civilisation shaped by the knowledge that every individual will experience a brutal decade of decline — may produce cultural perspectives unique in the Reach.
+**Strategic Assessment:** The Tall Whites are a cipher. They possess FTL, Lyran-derived genetics, and enough technological sophistication to operate undetected on Earth. Their isolationism makes them poor allies but unlikely enemies — they want to be left alone. Their value, if any relationship could be established, lies in their independent Lyran technological development: 62+ million years of advancement along a path nobody else followed. Their rapid-aging psychology — an entire civilisation shaped by the knowledge that every individual will experience a brutal decade of decline — may produce cultural perspectives unique in the Sector.
 
-**[UNDEVELOPED — needs v6 integration]:** The Tall Whites have not been fully developed in the species/factions lore bible. Key open questions: When exactly did they diverge from the Lyrans? Are they aware of the Federation? Do they know about humanity's engineered origin? Why did they establish a presence at Nellis — what specifically were they observing or refuelling for? How does their rapid-aging psychology shape their civilisation?
 
 ---
 
-## THE PALE (100–500 LY)
+## THE PALE (100–1,000 LY)
 
-The outer sphere. Travel times measured in weeks to months even with FTL. Contains the Annunaki Empire's engineered enforcer species and the Federation's primary military arm — the two most consequential civilisations in the Reach after the elder species themselves.
+The outer sphere. Travel times measured in weeks to months even with FTL. Contains the Annunaki Empire's engineered enforcer species and the Federation's primary military arm — the two most consequential civilisations in the Sector after the elder species themselves.
 
 ---
 
@@ -344,9 +406,9 @@ Created on Earth, shipped to **Alpha Draconis for hardening.** The binary system
 **Civilisation Profile:**
 - **Designed Function:** Officer/Compliance caste within the Annunaki Empire. The Reptilians are Level 2 in the Imperial hierarchy — above the Greys, the Modified Nephilim, and humans; below only the Annunaki themselves.
 - **Government:** Caste-based military empire with a dual loyalty structure — nominally self-governing on Draask and colonial worlds, but ultimately answerable to the Annunaki. They rule their own territory but serve at the Empire's pleasure.
-- **Technology Level:** Advanced military technology, moderate civilian technology. The most militarily capable species in the Reach after the Annunaki themselves. FTL-capable (brute-force warp tunnel system — energy-intensive but reliable). The largest dedicated warfleet in the Reach: approximately **800 combat vessels** ranging from corvettes to dreadnoughts. Biological weapons programme capable of targeting individual genomes.
+- **Technology Level:** Advanced military technology, moderate civilian technology. The most militarily capable species in the Sector after the Annunaki themselves. FTL-capable (brute-force warp tunnel system — energy-intensive but reliable). The largest dedicated warfleet in the Sector: approximately **800 combat vessels** ranging from corvettes to dreadnoughts. Biological weapons programme capable of targeting individual genomes.
 - **Psychology — Dominance Instinct:** The Reptilians are NOT programmed for loyalty to the Annunaki. They are programmed to **seek dominance over those clearly beneath them.** They are too smart to challenge the Annunaki — who are vastly superior — but they thoroughly enjoy exercising power over human populations. This explains their behaviour perfectly: they embed in human power structures because dominating humans is *satisfying*. They get absorbed in conquest, spectacle, and sending humans to fight each other for entertainment. They sometimes **lose focus on their actual monitoring duties** because they're having too much fun being apex predators.
-- **Military Capacity:** The primary military threat in the Reach (excluding the Annunaki and the theoretical Arcturian capability). 800+ warships. Standing army of approximately 200 million Drones (bred for combat, minimally sapient, expendable). Biological weapons. Orbital bombardment doctrine. Have fought and won wars against three other spacefaring civilisations, exterminating one entirely.
+- **Military Capacity:** The primary military threat in the Sector (excluding the Annunaki and the theoretical Arcturian capability). 800+ warships. Standing army of approximately 200 million Drones (bred for combat, minimally sapient, expendable). Biological weapons. Orbital bombardment doctrine. Have fought and won wars against three other spacefaring civilisations, exterminating one entirely.
 - **Population:** ~28 billion total across Draask and 12 colonial systems in the Pale.
 
 **Earth Assignment — Dereliction of Duty:**
@@ -359,40 +421,89 @@ The Reptilian contingent stationed on Earth manages humanity through infiltratio
 ---
 
 ### PLEIADES CLUSTER (M45) — TAYGETA SYSTEM
-**Stars:** Open cluster of ~3,000 stars at ~444 ly. Taygeta specifically is a triple star system (B6V blue-white main sequence primary)
-**Distance:** ~440 ly (Taygeta)
-**Cluster Age:** ~100 million years (very young — too young for native complex life evolution)
-
-**Inhabited World:** **Erra** — the primary Pleiadian homeworld, orbiting within the Taygeta system. The Pleiadians chose this location specifically because the cluster's youth meant no native biosphere to displace — they could build from scratch. Other Pleiadian worlds include **Temmer, Procyon, Dakote,** and **Cyndriel** across five systems.
-**Species:** **The Pleiadians** (self-designation: **Erathi**)
+**Homeworld:** Planet Erra, Taygeta system, Pleiades cluster (~444 ly from Sol)
+**Genetic Origin:** Lyran refugees — the closest thing to unmodified Lyrans that still exists
+**Spacefaring Age:** 62 million years (never existed without spaceflight — founded by Lyran refugees who fled with ships)
+**Status:** Federation member. The Federation's primary offensive arm against the Annunaki Empire.
 **Conspiracy Correlation:** "Pleiadians" / "Nordics" / "Space Brothers" — tall, blonde, blue-eyed humanoid beings who present themselves as spiritual guides and guardians of Earth's evolution. Billy Meier contacts. Adamski's "Venusian" Orthon (later reattributed to the Pleiades).
 
-**Origin — Lyran Refugees:**
-The Erathi are one of the two major successor civilisations of the Lyran diaspora (the other being the Sirians). When the Annunaki destroyed the Lyran civilisation ~62 million years ago, the pacifist-spiritual faction fled to the Pleiades cluster with whatever ships and knowledge they could carry. They are the **closest thing to unmodified Lyrans** that still exists — never genetically modified by another species, never interbred extensively with alien stock. However, 62 million years of natural evolution on Erra has driven phenotypic divergence from the copper-skinned, cat-eyed Lyran baseline.
+#### The Pleiades — Taygeta System
 
-**Biology:** Tall (1.8–2.2m), Nordic/Scandinavian appearance (blonde hair, blue eyes, fair skin). Evolved lighter and fairer skin as well as **human-like eyes** (losing the cat-slit Lyran pupils) through natural evolution on Erra's lower-UV environment. Lifespan approximately 1,000 standard years. One extra chromosome pair compared to humans. **Genetically compatible with humans** — Pleiadian stock was used to create humanity, and the Arcturians intentionally reactivated dormant Lyran phenotype markers (copper/dark skin tones) in the human template so humans would read as generic Lyran offshoots on genetic scans rather than being identifiable as Pleiadian-derived.
+**Stars:** Open cluster of ~3,000 stars at ~444 ly. Taygeta specifically is a triple star system (B6V blue-white main sequence primary)
+**Cluster Age:** ~100 million years (very young — too young for native complex life evolution)
 
-**Civilisation Profile:**
-- **Spacefaring Age:** 62 million years (never existed without spaceflight — founded by refugees who fled with ships).
+The Pleiadians chose the Pleiades specifically because the cluster's youth meant no native biosphere to displace — they could build from scratch. Other Pleiadian worlds include **Temmer, Asara, Dakote,** and **Cyndriel** across five systems within the cluster.
+
+#### Biology
+- Tall (6–7 ft), Nordic/Scandinavian appearance (blonde hair, blue eyes, fair skin)
+- Evolved **lighter and fairer skin** as well as **human-like eyes** (losing the cat-slit Lyran pupils) through natural evolution on Erra — Erra's environment drove phenotypic divergence from the copper-skinned, cat-eyed Lyran baseline
+- This matters because Pleiadian stock was used to create humanity. Humans inherited the Pleiadian template but the Arcturians **intentionally reactivated the dormant Lyran markers** for copper/dark skin tones — this is why humanity has such a wide spread of skin colours compared to most species' uniform complexions. It was done so humans would read as a generic Lyran offshoot on genetic scans rather than being immediately identifiable as Pleiadian-derived, which would have exposed the Federation's involvement
+- Lifespans: ~1,000 standard years
+- One extra chromosome pair compared to humans
+- Genetically compatible with humans (Pleiadian stock was used to *create* humanity)
+
+#### Civilisational Profile
+- **Population:** ~38 million across five worlds (Temmer, Erra, Asara, Dakote, Cyndriel), plus ~600 million in orbital habitats and research outposts across ~30 systems. Small population — the Pleiadians have always been a quality-over-quantity civilisation.
+- **Technology:** ~10,000 years ahead of humanity. Crystalline Beamships. Gravity/light manipulation. Pleiadian ships likely incorporate **Arcturian defensive upgrades** given the alliance.
 - **Government:** Spiritual democracy. Governed by a rotating council called the **Conclave of Light**, whose members are selected through a combination of popular acclaim and demonstrated spiritual attainment (measured by bioelectric field coherence). Decisions require unanimous consent, which works because the Erathi genuinely share a common philosophical framework after 62 million years of cultural selection.
-- **Technology Level:** ~10,000 years ahead of humanity. Crystalline Beamships. Gravity/light manipulation. Pleiadian ships likely incorporate **Arcturian defensive upgrades** given the alliance. FTL-capable. Energy manipulation technology comparable to (though less refined than) the Arcturians.
-- **Population:** ~38 million across five worlds (Temmer, Erra, Procyon, Dakote, Cyndriel), plus ~600 million in orbital habitats and research outposts across ~30 systems. Small population — the Pleiadians have always been a quality-over-quantity civilisation.
 
-**THE FEDERATION'S PRIMARY OFFENSIVE ARM:**
-This is the critical fact that separates the Pleiadian reality from their "peaceful Nordic" image in human contactee tradition. The Pleiadians are **not pacifists.** They are the Federation's **primary military force** against the Annunaki Empire — tens of millions of years of hit-and-run strikes, surveillance operations, and guerrilla campaigns. They hit the Annunaki **constantly.** The Federation publicly punishes them for military actions while secretly encouraging them — this delicate game prevents the Annunaki from declaring open war (the Federation publicly characterises Pleiadian strikes as "rogue actions").
+#### The Federation's Offensive Arm — And Its Human Auxiliaries
 
-**Sol Operations:**
-- **Millennia of guerrilla warfare:** Pleiadian bases in Sol were not recent — they ran operations against the Annunaki in their own capital system for thousands of years. Surveillance, intelligence, contactee operations, extraction of individual humans. Bases on Luna, Mars, and Earth.
-- **The 1954 Approach:** Direct diplomatic contact with Eisenhower at Edwards Air Force Base. Offered advanced technology in exchange for nuclear disarmament. Rejected.
-- **The 1954 Purge:** Betrayed — ratted out to the Annunaki by human collaborators, Reptilian intelligence, and/or Grey monitoring. All Pleiadian bases in Sol destroyed or captured. Operatives hunted. The Grey bases on Luna's dark side are **former Pleiadian installations.** Near-total elimination of Pleiadian presence in Sol.
-- **Jesus of Nazareth:** A Pleiadian operative embedded as a human, after the Sirians failed twice (seeding, Egypt). The operation succeeded culturally beyond expectation. Christianity spread values the Pleiadians intended. The crucifixion was meant to end it and instead amplified it. The Annunaki now actively encourage atheism as cultural engineering to undermine a Pleiadian legacy they failed to contain.
+The Pleiadians are the **Federation's primary military force** against the Annunaki Empire — tens of millions of years of hit-and-run strikes, surveillance operations, and guerrilla campaigns. They are not pacifists. They never were.
 
-**Who the Pleiadians Care About:**
+**The Pleiadian temperament** is that of a **hyper-disciplined warrior culture** — spiritual, yes, but in the way a Spartan or a samurai is spiritual. Conspiracy contactee accounts consistently describe them as peaceful and compassionate, and they *are* compassionate — but that compassion coexists with a martial tradition older than most species in the galaxy. 62 million years of guerrilla warfare against the galaxy's apex predator doesn't produce pacifists. It produces something harder: warriors who fight constantly, train relentlessly, and maintain iron discipline because a single mistake against the Annunaki means extinction.
+
+The Pleiadians **fight amongst themselves** — not out of dysfunction, but as core cultural practice. Ritual combat, competitive war-games, duelling traditions, and constant tactical drilling keep the entire species sharp. Every Pleiadian receives basic combat training. The distinction is not between warriors and civilians — it's between those who fight the Empire and those who train to fight the Empire. Their spiritual philosophy emphasises mastery of the self through discipline, courage in the face of annihilation, honour in combat, and the acceptance of death as a necessary consequence of resistance. This is not Arcturian contemplation. This is a warrior's creed.
+
+**The military reality** is that the Federation's offensive operations against the Annunaki are primarily conducted by **human auxiliaries** using Pleiadian technology under Pleiadian officer command. Federation Humans — smuggled out of Annunaki territory over millennia, desperate to free their species, the most hawkish faction in the Federation — volunteer eagerly for every operation. They crew the ships, they conduct the raids, they do the fighting and the dying. Pleiadian officers provide command, navigation, and access to advanced technology. A typical Pleiadian "strike mission" consists of a handful of Pleiadian officers commanding a human crew aboard a Pleiadian vessel.
+
+This arrangement serves multiple purposes:
+- **Force multiplication:** 38 million Pleiadians cannot sustain a protracted war against the Annunaki Empire. Human auxiliaries provide the numbers. Pleiadian warriors provide the leadership, technology, and millennia of operational experience.
+- **Human utility:** Federation Humans get to fight, which is what they want. The Federation gets a motivated fighting force without arming humans independently.
+- **Demographic management:** Every human who dies on a Pleiadian strike mission is one fewer human breeding in Federation space. The Federation doesn't say this out loud. But the calculus exists. (See: Humanity — The Breeding Problem.)
+- **Plausible deniability:** The Federation publicly characterises Pleiadian strikes as "rogue actions" by a few hotheaded Pleiadians. This delicate game prevents the Annunaki from declaring open war. In reality, the strikes are Federation-sanctioned operations crewed largely by humans.
+
+The shift toward heavier reliance on human auxiliaries accelerated after the 1954 purge, when the Pleiadians lost most of their operational infrastructure in Sol and the personal cost of offensive operations became unsustainable for a species with only 38 million individuals. Before the purge, Pleiadian warriors were more directly involved in combat operations — and some still are.
+
+#### Sol Operations
+**Millennia of hit-and-run:** The Pleiadian bases in Sol were not a recent development. They'd been running operations against the Annunaki in their own capital system for thousands of years — surveillance, intelligence gathering, contactee operations, occasional extraction of human individuals. Bases on Luna, Mars, and Earth. These operations were primarily conducted by human auxiliaries under Pleiadian command, even in this era — the Pleiadians supplied the technology and leadership, humans supplied the bodies.
+
+#### The Norse Operation (~800 BCE – ~1100 CE)
+
+After the Sirians failed twice (the seeding and Egypt), the Pleiadians deployed their own approach — not a single operative but a **cultural implantation** targeting Northern European populations. Pleiadian warriors made direct contact with Scandinavian and Germanic peoples, presenting themselves as gods.
+
+This was not deception for its own sake. The Pleiadians introduced their own warrior-spiritual philosophy — repackaged for a pre-literate human audience — as a cultural operating system designed to produce humans resistant to Reptilian control structures. The core Pleiadian values mapped directly onto what became Norse religion: honour in combat, the acceptance of death as a warrior's due, the concept of earned glory through discipline and courage, the rejection of servile obedience in favour of earned loyalty. **Valhalla** — the hall of the honoured dead — is a simplified transmission of the Pleiadian belief that those who fight and die resisting tyranny achieve something beyond physical survival. **The Aesir** — Odin, Thor, Freya — are Pleiadian warriors remembered through the lens of human mythology, their actual capabilities exaggerated but not invented.
+
+The operation worked — for a while. Norse culture produced humans who were fiercely independent, resistant to hierarchical religious control, and culturally predisposed toward exploration and self-governance. The problem was containment. When the Reptilian-controlled Roman Church expanded into Northern Europe, it systematically dismantled Norse religious infrastructure through forced conversion, exactly as Rome had done to the Sirian-influenced Egyptian tradition centuries earlier. The Norse cultural programme was overwhelmed — but fragments survived in mythology, in the cultural DNA of Scandinavian societies, and in the stubborn independence that persisted even after Christianisation.
+
+**The irony:** The Reptilians later destroyed the Norse operation using Christianity — itself the product of a *later* Pleiadian operation. The Pleiadians' own weapon was turned against their earlier work.
+
+#### Jesus — The Pleiadian Operation
+After the Sirians failed twice (seeding, Egypt), the Federation greenlit a Pleiadian approach. A Pleiadian operative was embedded as a human — Jesus of Nazareth.
+
+The operation succeeded culturally beyond expectation. Christianity spread values the Pleiadians intended: compassion, equality, resistance to worldly authority. The crucifixion was meant to end it and instead amplified it.
+
+**Annunaki response to Christianity:** They see it as a Pleiadian creation and actively encourage its decline. The modern rise of atheism may be Annunaki-supported through cultural engineering — an attempt to undermine a Pleiadian legacy they failed to contain.
+
+#### The 1954 Approach
+The boldest operation. Direct diplomatic contact with Eisenhower at Edwards Air Force Base. Offered advanced technology in exchange for nuclear disarmament. Rejected.
+
+#### The 1954 Purge
+Betrayed — ratted out to the Annunaki by human collaborators, Reptilian intelligence, and/or Grey monitoring. The Empire response was devastating:
+- All Pleiadian bases in Sol identified and destroyed or captured
+- Pleiadian operatives hunted
+- All infrastructure seized and repurposed
+- The Grey bases on Luna's dark side are **former Pleiadian installations**
+- Near-total elimination of Pleiadian presence in Sol
+
+After the purge, Pleiadian operational capability in Sol is near zero. Individual contactees, information drops, extreme-risk insertions only. The loss of Sol infrastructure — and the human auxiliaries who crewed it — was catastrophic. This is when the Pleiadian military shifted almost entirely to human-crewed operations based in Federation space rather than forward-deployed in Sol.
+
+#### Who the Pleiadians Care About
 - **Humanity:** Lyran offshoot. Their genetic material was used to create humans. Deeply personal stake. The Pleiadians maintain **sanctuary worlds in Federation space** for Lyran-offshoot refugees smuggled out of the Annunaki Empire.
 - **Reptilians:** View as abominations (Lyran DNA in an archosaur body). No kinship, no sympathy.
 - **Greys:** Not Lyran-descended. Not their concern.
 
-**Strategic Assessment:** The Erathi are the moral core of the Federation and its most committed fighting force — a combination that makes them both admirable and dangerous. Their military capability is real and battle-tested against the Annunaki over geological timescales. Their genetic connection to humanity makes them the most emotionally invested alien species in human affairs. However, the Federation's long-term plan for humanity (use as disposable weapon, then contain through sterilisation and breeding programmes) is known to Pleiadian leadership. Whether they agree with it, oppose it, or plan to subvert it is one of the most consequential open questions in galactic politics. An expanding human power would find the Pleiadians the most natural alien ally — shared Lyran heritage, shared enemy, shared history. The question is whether that alliance survives the revelation of what the Federation actually intends for humanity after the Annunaki fall.
+**Strategic Assessment:** The Pleiadians are the military backbone of the Federation and the species most emotionally invested in human liberation — a combination that makes them both the most reliable ally and the most dangerous friend. Their warrior culture has been honed against the Annunaki over geological timescales, increasingly supplemented by human auxiliary crews who provide the numbers their small population cannot sustain. Their genetic connection to humanity makes them the most natural alien ally. However, the Federation's long-term plan for humanity (use as disposable weapon, then contain through sterilisation and breeding programmes) is restricted to the Arcturian/Sirian project leadership identified in the final Open Questions section. Pleiadian leadership is not established as knowing the secret plan. How the Pleiadians respond if they learn it remains open. An expanding human power would find the Pleiadians the most natural ally — shared Lyran heritage, shared enemy, shared history, shared warrior temperament. The question is whether that alliance survives the revelation of what the Federation actually intends for humanity after the Annunaki fall.
 
 ---
 
@@ -402,16 +513,16 @@ This is the critical fact that separates the Pleiadian reality from their "peace
 |---------|--------|----------|------|----------|-------------|-------------|
 | **ELDER SPECIES** | | | | | | |
 | Annunaki | Sol (Nibiru) | 0 ly | Yes (gravity-fold Šimtu) | Overwhelming (demigod-tier individuals + fleet) | Proprietary — humanity is livestock | **Existential** |
-| Arcturians | Arcturus | 36.7 ly | Yes (Corridor — thousands of c) | None (zero warships; theoretical capability overwhelming) | Protective — made humanity | Existential (if provoked) |
+| Arcturians | Arcturus | 36.7 ly | Fixed wormhole gates; ships for heavy transit | None (zero warships; theoretical capability overwhelming) | Created humanity; Federation control plan applies | Existential (if provoked) |
 | Lyrans | Vega (ruins) | 25.0 ly | Extinct | N/A | N/A (derelict system) | N/A |
 | **ENGINEERED SPECIES (EMPIRE)** | | | | | | |
 | Reptilians (Draconari) | Alpha Draconis | 303 ly | Yes (warp tunnel) | Massive (800+ warships, 200M Drones) | Hostile — dominance-seeking enforcers | **Existential** |
 | Greys (Rhethari) | Zeta Reticuli | 39.3 ly | Yes (space compression) | Moderate (stealth/speed, 2000 scouts) | Research-focused — humanity = lab rats | Moderate |
 | **FEDERATION SPECIES** | | | | | | |
-| Pleiadians (Erathi) | Taygeta/Pleiades | 440 ly | Yes | Significant (guerrilla fleet, 62M years combat experience) | Protective — genetic cousins, military allies | Low (currently) |
+| Pleiadians (Erathi) | Taygeta/Pleiades | 444 ly | Yes | Significant (guerrilla fleet, 62M years combat experience) | Protective — genetic cousins, military allies | Low (currently) |
 | Sirians | Sirius | 8.6 ly | Yes | Capable (consumed by internal civil war) | Personal stake — helped create humanity | Low-Moderate |
 | **INDEPENDENT SPECIES** | | | | | | |
-| Korvaithi | Alpha Centauri | 4.4 ly | No | Negligible | Cautiously benevolent | None |
+| Nommo proximi | Alpha Centauri | 4.37 ly | Reported; method unknown | Formidable defences reported; details unknown | Isolationist; affiliation unconfirmed | Uncertain |
 | Cethari | Tau Ceti | 11.9 ly | No | Defensive (excellent point-defence) | Commercial — wants to trade | None |
 | Manthari | 61 Cygni | 11.4 ly | No | Moderate (hive military, defensive) | Allied with Greys (consultant role) | Low |
 | Tall Whites | Capella | 43 ly | Yes | Unknown (isolationist) | Indifferent | Low |
@@ -430,9 +541,9 @@ This is the critical fact that separates the Pleiadian reality from their "peace
 
 ## NOTES FOR STORY INTEGRATION
 
-1. **Sol is the capital.** This is the single most important geopolitical fact in the Reach. Humanity is not living in a quiet backwater hoping not to be noticed — they are living in the throne room of the galaxy's largest empire, surrounded by concealed infrastructure, managed by an embedded officer caste (Reptilians), and monitored by a technical caste (Greys) that has been conducting experiments on them for millennia.
+1. **Sol is the capital.** This is the single most important geopolitical fact in the Sector. Humanity is not living in a quiet backwater hoping not to be noticed — they are living in the throne room of the galaxy's largest empire, surrounded by concealed infrastructure, managed by an embedded officer caste (Reptilians), and monitored by a technical caste (Greys) that has been conducting experiments on them for millennia.
 
-2. **The Lyran Legacy is everything.** The Lyrans — extragalactic conquerors destroyed 62 million years ago — cast a shadow over every species and political relationship in the Reach. The Annunaki were transformed by defeating them. The Pleiadians and Sirians exist because they fled the destruction. The Reptilians carry Lyran DNA in alien bodies. The Greys are chimera of everything. Humanity was built from Pleiadian (Lyran-derived) stock. Protagonist, as Homo Superior, is a Lyran-derived being augmented with technology that may approach or exceed Arcturian-level capability. The political implications are enormous.
+2. **The Lyran Legacy is everything.** The Lyrans — extragalactic conquerors destroyed 62 million years ago — cast a shadow over every species and political relationship in the Sector. The Annunaki were transformed by defeating them. The Pleiadians and Sirians exist because they fled the destruction. The Reptilians carry Lyran DNA in alien bodies. The Greys are chimera of everything. Humanity was built from Pleiadian (Lyran-derived) stock. Protagonist, as Homo Superior, is a Lyran-derived being augmented with technology that may approach or exceed Arcturian-level capability. The political implications are enormous.
 
 3. **The Federation is not the good guys.** They are better than the Annunaki — but their long-term plan for humanity is: use as weapon, then sterilise and breed out the dangerous traits. They built the gun. They assume they can put it down after it fires. They are wrong.
 
@@ -440,21 +551,16 @@ This is the critical fact that separates the Pleiadian reality from their "peace
 
 5. **FTL methods vary by species** — this is intentional. There is no single "correct" FTL technology. Protagonist's Alcubierre relay, if completed, would be a genuinely new approach that no other species has achieved, which immediately makes it valuable and threatening.
 
-6. **The independent species (Korvaithi, Cethari, Manthari) are wild cards.** They owe nothing to the Lyran legacy, have no stake in the Empire-Federation cold war, and represent genuinely alien perspectives. Their development in the story could go in many directions.
+6. **Independent species are wild cards.** The Nommo diaspora is linked to Sirius by origin without confirmed Federation membership. Cethari and Capellans are independent; the Manthari are Grey-allied consultants rather than an established Imperial possession. Their development in the story could go in many directions.
 
 7. **The Tall Whites are a cipher.** An early Lyran offshoot with FTL, unknown military capability, and isolationist tendencies. They could be irrelevant or they could possess technology and knowledge that nobody else has — 62+ million years of independent development is a long time.
 
-8. **The Arcturians care.** They made humanity. They feel guilt about the Reptilians. They value novelty. A Homo Superior building something genuinely new — treating AI as children, integrating biological and machine consciousness — would fascinate them in a way nothing has for millennia. They are the closest thing humanity has to a benevolent cosmic parent. Whether that relationship survives humanity's inevitable defiance of Federation authority is the critical question.
+8. **Arcturian parenthood is not unconditional protection.** Their investment in humanity coexists with the Federation plan to control the survivors after the Empire falls. The lore bible’s secret-plan section governs; neither the map nor the protagonist should assume uncomplicated benevolence.
 
 ---
 
-## SPECIES NOT YET IN LORE BIBLE (v6)
+## AFFILIATION AND UNCERTAINTY
 
-The following species appear in this sector map but have not yet been fully integrated into the species/factions lore bible. They require collaborative development to establish their place in the Annunaki-Federation power dynamic:
+The lore bible is definitive. Arcturus and the Pleiades are Federation holdings. Sirius is officially Federation-aligned but internally divided. Sol, Epsilon Eridani, Vega’s conquered ruins and Alpha Draconis are Imperial; Zeta Reticuli is predominantly Nebu-aligned, with Wanderer dissidents. Alpha Centauri has no confirmed superpower membership. Tau Ceti and Capella are independent. The Manthari are Grey-allied, not established as Annunaki-controlled.
 
-| Species | System | Status | Key Question |
-|---------|--------|--------|-------------|
-| Korvaithi | Alpha Centauri | Independent native | How do they relate to the Empire operating next door? |
-| Cethari | Tau Ceti | Independent native | Are they aware of the full galactic picture? Trade potential? |
-| Manthari | 61 Cygni | Independent native (Grey-allied) | Does the Annunaki Empire consider them within its sphere? |
-| Tall Whites | Capella | Independent Lyran offshoot | When did they diverge? What do they know? Why Nellis? |
+Barnard’s Star is a probable Imperial relay, not a confirmed installation. Wolf 359, Luhman 16, Ross 128 and TRAPPIST-1 have uncertain specific occupancy; the lore’s general assumption of Imperial monitoring near Sol does not establish ownership or exclude covert Federation activity. Map colours describe confirmed affiliation only.

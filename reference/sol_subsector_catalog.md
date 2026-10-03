@@ -1,13 +1,15 @@
 # ARCANUM — SOL SUBSECTOR CATALOG
 ## Stellar Cartography & Conspiracy Species Registry
 
-**Subsector Definition:** 100 light-years × 100 light-years horizontal footprint, spanning the full vertical thickness of the galactic disk (~1,000 ly thin disk, ~2,000 ly thick disk). Sol Subsector is one of 100 Subsectors comprising Sol Sector (1,000 ly × 1,000 ly).
+**Subsector Definition:** The inner 100 light-years in radius around Sol (200 ly diameter), within the 1,000 ly radius Sol Sector. Distances are radial, not square grid tiles or a full-height galactic column. The Threshold covers 0–15 ly; the Meridian covers 15–100 ly. Catalogue rings are reference groupings within that volume.
 
 **Scope:** All known star systems within ~50 ly containing confirmed planetary bodies viable for long-term habitation or construction (planets, large moons). Systems beyond 50 ly included where they have confirmed exoplanets or conspiracy lore significance. Asteroids, comets, and debris-only systems excluded.
 
-**Estimated Total Stars in Subsector:** ~15,000 star systems. ~500+ within 50 ly. Only those with confirmed/candidate planetary bodies are cataloged below.
+**Coverage:** Selected systems only; no complete star-count estimate is asserted for the reconciled radial volume.
 
 ---
+
+**Canon boundary:** This is an imported astronomy and source-tradition research catalogue, not an alternate lore bible. [LORE] blocks report source claims; fictional homeworlds, species, affiliations and history are defined by [lore bible v7](arcanum_lore_bible_v7.md). Astronomical claims retain their source-era status and have not been reverified during continuity editing.
 
 ## HOW TO READ THIS CATALOG
 
@@ -558,16 +560,16 @@ This would fall outside the 100 ly Subsector boundary. Excluded.
 
 ## NOTES FOR WORLDBUILDING
 
-1. **The detection gap is enormous.** We've cataloged ~55 systems with planets in a volume containing ~15,000 star systems. Statistical models predict ~4,000+ planets exist within 50 ly alone, with ~1,000 Earth-sized HZ worlds. The vast majority are simply undetected. ARCANUM can populate the empty space freely.
+1. **The detection gap is enormous.** We've cataloged ~55 systems with planets in a volume containing an incompletely catalogued stellar population. Statistical models predict ~4,000+ planets exist within 50 ly alone, with ~1,000 Earth-sized HZ worlds. The vast majority are simply undetected. ARCANUM can populate the empty space freely.
 
 2. **Red dwarfs dominate.** ~75% of stars in the Subsector are M-type red dwarfs. Most known planets orbit these. Their habitable zones are extremely close (tidal locking likely), and flare activity is a serious habitability concern.
 
 3. **"Empty" systems are story opportunities.** Sirius, Procyon, Capella, Altair, 61 Cygni — bright, well-known stars with no confirmed planets. Perfect for original species or installations.
 
-4. **Conspiracy homeworld problems remain unsolved:**
-   - Nibiru: Doesn't exist. Decision needed.
-   - Zeta Reticuli: No planets found. Decision needed.
-   - Arcturus: Inner planets consumed. Decision needed.
+4. **Source astronomy versus settled fictional lore:**
+   - Nibiru: Not an established astronomical object; its fictional orbit and role are settled in lore bible v7.
+   - Zeta Reticuli: No confirmed planets in this source catalogue; fictional Rethan is established in v7.
+   - Arcturus: Fictional Corporian occupies the current habitable zone in v7.
    - Alpha Draconis & Pleiades: Uninhabitable stars, outside Subsector.
 
 5. **Best "blank canvas" systems for original content:**

@@ -1,4 +1,5 @@
 import { useState, useRef, useEffect, useCallback } from "react";
+import SYSTEMS from "./map_systems.json";
 
 // ════════════════════════════════════════════════════════════════
 // ARCANUM — Galactic Territory Map v3 (Embedded Image)
@@ -22,87 +23,16 @@ const CLR = {
   unknown:    { dot: "#556666", glow: "rgba(80,100,100," },
 };
 
-const SYSTEMS = [
-  { id:"sol", n:"SOL", x:400, y:558, f:"empire", sz:5,
-    lbl:"Sol System \u2014 Imperial Capital",
-    d:"Capital of the Annunaki Empire. Nibiru orbits Sol at ~290 AU. Heavily fortified, concealed by the Firmament. Home to 8.2 billion humans (enslaved, unaware)." },
-  { id:"arcturus", n:"ARCTURUS", x:400.1, y:552.6, f:"federation", sz:4,
-    lbl:"Arcturus \u2014 Arcturian Homeworld (Corporian)",
-    d:"280-million-year-old civilisation. Founders of the Galactic Federation. Zero military vessels \u2014 their mining ships could dismantle a fleet. 36.7 ly from Sol." },
-  { id:"sirius", n:"SIRIUS", x:399.3, y:559.0, f:"federation", sz:3.5,
-    lbl:"Sirius \u2014 Cosmopolitan Hub",
-    d:"Officially Federation-aligned but practically fractured. Shadow civil cold war between loyalists and Empire collaborators. 8.6 ly from Sol." },
-  { id:"pleiades", n:"PLEIADES", x:420, y:620, f:"federation", sz:4,
-    lbl:"Pleiades \u2014 Pleiadian Sanctuary (Erra)",
-    d:"Federation warrior culture. ~638 million across five worlds. Fortified sanctuary connected by the gate network. 444 ly from Sol." },
-  { id:"draconis", n:"\u03b1 DRACONIS", x:443.3, y:547.8, f:"empire", sz:4.5,
-    lbl:"Alpha Draconis \u2014 Reptilian Homeworld (Draask)",
-    d:"28 billion Reptilians. 800+ warships. The Empire\u2019s enforcement arm. 303 ly from Sol." },
-  { id:"vega", n:"VEGA", x:403.1, y:556.0, f:"empire", sz:3,
-    lbl:"Vega \u2014 The Graveyard System",
-    d:"62-million-year-old Lyran derelict infrastructure. Annunaki-claimed by right of conquest. 25 ly from Sol." },
-  { id:"zeta_ret", n:"\u03b6 RETICULI", x:394.5, y:559.8, f:"empire", sz:3,
-    lbl:"Zeta Reticuli \u2014 Grey Homeworld (Rethan)",
-    d:"Loyalist Nebu faction. Dissident Wanderers cooperate with Federation. 39.3 ly from Sol." },
-  { id:"eps_eri", n:"\u03b5 ERIDANI", x:399.6, y:559.5, f:"empire", sz:3,
-    lbl:"Epsilon Eridani \u2014 Vosk (Imperial Outpost)",
-    d:"Resource extraction and military staging. 10.5 ly from Sol." },
-  { id:"tau_ceti", n:"\u03c4 CETI", x:400.6, y:559.6, f:"federation", sz:2.5,
-    lbl:"Tau Ceti \u2014 Cethari Homeworld (Meranthe)",
-    d:"Mercantile republic. Independent species, not Lyran-derived. 11.9 ly from Sol." },
-  { id:"alpha_cen", n:"\u03b1 CENTAURI", x:399.5, y:557.5, f:"federation", sz:2,
-    lbl:"Alpha Centauri \u2014 Nommo Diaspora",
-    d:"Nommo proximi \u2014 pure geneline aquatic species. Federation-associated through Sirian kinship. 4.37 ly from Sol." },
-  { id:"capella", n:"CAPELLA", x:404.7, y:562.2, f:"empire", sz:3,
-    lbl:"Capella \u2014 Tall White Territory",
-    d:"Lyran divergent branch. Empire-aligned isolationist. ~43 ly from Sol." },
-  { id:"61cygni", n:"61 CYGNI", x:401.6, y:557.7, f:"empire", sz:2,
-    lbl:"61 Cygni \u2014 Manthari Hive (Thurakh)",
-    d:"Eusocial insectoid species. ~40 billion but only 8\u201312 million sapient. Annunaki-controlled. 11.4 ly from Sol." },
-  { id:"trappist", n:"TRAPPIST-1", x:395.1, y:561.4, f:"empire", sz:2,
-    lbl:"TRAPPIST-1 \u2014 7 Rocky Worlds",
-    d:"Three habitable-zone Earth-mass planets. Annunaki-controlled. 40.7 ly from Sol." },
-  { id:"barnards", n:"BARNARD\u2019S", x:400.5, y:557.3, f:"empire", sz:1.5,
-    lbl:"Barnard\u2019s Star \u2014 Probable Empire Relay",
-    d:"Probable Annunaki monitoring station. 5.96 ly from Sol." },
-  { id:"wolf359", n:"WOLF 359", x:399.0, y:558.6, f:"empire", sz:1,
-    lbl:"Wolf 359 \u2014 Dark System",
-    d:"One of the dimmest known stars. Annunaki monitoring infrastructure. 7.9 ly from Sol." },
-  { id:"luhman", n:"LUHMAN 16", x:399.1, y:557.6, f:"empire", sz:1,
-    lbl:"Luhman 16 \u2014 Binary Brown Dwarfs",
-    d:"Dark system, 6.5 ly from Sol. Annunaki covert staging area." },
-  { id:"ross128", n:"ROSS 128", x:398.4, y:558.0, f:"empire", sz:1.5,
-    lbl:"Ross 128 \u2014 Habitable Zone World",
-    d:"Quiet red dwarf with Earth-mass HZ planet. Annunaki-controlled. 11 ly from Sol." },
-];
+// Local radial distances follow the lore bible; directions are schematic.
 
-const TZ = [
-  // Empire territory (12 systems)
-  {x:400,y:558,f:"empire",r:4.0,w:2.0},       // Sol
-  {x:443.3,y:547.8,f:"empire",r:4.0,w:2.0},   // Alpha Draconis
-  {x:403.1,y:556.0,f:"empire",r:2.5,w:1.5},   // Vega
-  {x:394.5,y:559.8,f:"empire",r:2.5,w:1.2},   // Zeta Reticuli
-  {x:399.6,y:559.5,f:"empire",r:2.0,w:1.0},   // Epsilon Eridani
-  {x:404.7,y:562.2,f:"empire",r:2.0,w:1.0},   // Capella
-  {x:401.6,y:557.7,f:"empire",r:1.5,w:0.8},   // 61 Cygni
-  {x:395.1,y:561.4,f:"empire",r:2.0,w:1.0},   // TRAPPIST-1
-  {x:400.5,y:557.3,f:"empire",r:1.0,w:0.5},   // Barnard's
-  {x:399.0,y:558.6,f:"empire",r:1.0,w:0.5},   // Wolf 359
-  {x:399.1,y:557.6,f:"empire",r:1.0,w:0.5},   // Luhman 16
-  {x:398.4,y:558.0,f:"empire",r:1.0,w:0.5},   // Ross 128
-  // Federation territory (5 systems)
-  {x:400.1,y:552.6,f:"federation",r:3.0,w:1.5}, // Arcturus
-  {x:420,y:620,f:"federation",r:3.5,w:2.0},     // Pleiades
-  {x:399.3,y:559.0,f:"federation",r:1.8,w:1.0}, // Sirius
-  {x:400.6,y:559.6,f:"federation",r:1.2,w:0.7}, // Tau Ceti
-  {x:399.5,y:557.5,f:"federation",r:1.0,w:0.6}, // Alpha Centauri
-];
+
 
 const PRESETS = [
   { l:"FULL GALAXY", z:1, x:IMG_CX, y:IMG_CY },
-  { l:"SOL SECTOR", z:10, x:SOL_X, y:SOL_Y },
-  { l:"THRESHOLD", z:22, x:SOL_X, y:SOL_Y },
-  { l:"DEEP ZOOM", z:35, x:SOL_X, y:SOL_Y },
+  { l:"SOL SECTOR · 1,000 LY", z:2.4, x:SOL_X, y:SOL_Y },
+  { l:"SOL SUBSECTOR · 100 LY", z:20, x:SOL_X, y:SOL_Y },
+  { l:"THRESHOLD · 15 LY", z:75, x:SOL_X, y:SOL_Y },
+  { l:"DEEP ZOOM", z:75, x:SOL_X, y:SOL_Y },
   { l:"EMPIRE CORE", z:1.8, x:400, y:450 },
   { l:"FED HOLDINGS", z:1.8, x:600, y:420 },
 ];
@@ -165,11 +95,6 @@ function bakeHeatmap(tier) {
   }
   ctx.putImageData(img,0,0); return cv;
 }
-
-// Empire systems: Sol(400,558) Draconis(422,554) Vega(409,554) ZetaRet(392,559) EpsEri(399,563)
-//   61Cyg(407,557) Capella(404,570) TRAPPIST(389,563) Barnards(402,554) Wolf359(396,560)
-//   Luhman(396,555) Ross128(395,558)
-// Federation: Arcturus(402,551) Pleiades(409,597) Sirius(396,562) TauCeti(400,562) AlphaCen(397,555)
 
 // ── T1 (z<=1): Full galaxy overview ──
 // Empire: ONE contiguous mass radiating from Sol. Federation: scattered gate-connected islands.
@@ -317,41 +242,11 @@ const HM5={x0:0,y0:100,w:800,h:710,res:3,aMul:180,zones:[
   {x:397,y:555,f:"federation",sp:5,str:0.4},
 ]};
 // ── T6 (z<=10): Full Sol sector — all systems visible ──
-const HM6={x0:385,y0:540,w:75,h:90,res:10,aMul:200,zones:[
-  {x:400,y:558,f:"empire",sp:7,str:2.2},{x:443.3,y:547.8,f:"empire",sp:7,str:1.8},
-  {x:403.1,y:556,f:"empire",sp:4,str:1.3},{x:394.5,y:559.8,f:"empire",sp:5,str:1.3},
-  {x:399.6,y:559.5,f:"empire",sp:3.5,str:1.2},{x:401.6,y:557.7,f:"empire",sp:3,str:1.0},
-  {x:404.7,y:562.2,f:"empire",sp:4,str:1.0},{x:395.1,y:561.4,f:"empire",sp:4,str:0.8},
-  {x:400.5,y:557.3,f:"empire",sp:2,str:0.7},{x:399,y:558.6,f:"empire",sp:2,str:0.7},
-  {x:399.1,y:557.6,f:"empire",sp:2,str:0.6},{x:398.4,y:558,f:"empire",sp:2,str:0.7},
-  {x:400.1,y:552.6,f:"federation",sp:5,str:1.8},{x:420,y:620,f:"federation",sp:6,str:1.5},
-  {x:399.3,y:559,f:"federation",sp:4,str:1.2},{x:400.6,y:559.6,f:"federation",sp:2.5,str:0.9},
-  {x:399.5,y:557.5,f:"federation",sp:2.5,str:0.7},
-]};
+const HM6={x0:385,y0:540,w:75,h:90,res:10,aMul:200,zones:SYSTEMS.filter(sys => ["empire", "federation"].includes(sys.f)).map(sys => ({x:sys.x,y:sys.y,f:sys.f,sp:4,str:1.7}))};
 // ── T7 (z<=20): PEAK INTENSITY — full sector, strongest colours ──
-const HM7={x0:388,y0:542,w:70,h:85,res:16,aMul:240,zones:[
-  {x:400,y:558,f:"empire",sp:4,str:3.5},{x:443.3,y:547.8,f:"empire",sp:5,str:3.0},
-  {x:403.1,y:556,f:"empire",sp:2.5,str:2.2},{x:394.5,y:559.8,f:"empire",sp:3,str:2.2},
-  {x:399.6,y:559.5,f:"empire",sp:2.2,str:2.0},{x:401.6,y:557.7,f:"empire",sp:2,str:1.8},
-  {x:404.7,y:562.2,f:"empire",sp:2.5,str:1.8},{x:395.1,y:561.4,f:"empire",sp:2.5,str:1.5},
-  {x:400.5,y:557.3,f:"empire",sp:1.3,str:1.2},{x:399,y:558.6,f:"empire",sp:1.3,str:1.2},
-  {x:399.1,y:557.6,f:"empire",sp:1.2,str:1.0},{x:398.4,y:558,f:"empire",sp:1.3,str:1.2},
-  {x:400.1,y:552.6,f:"federation",sp:3.5,str:2.8},{x:420,y:620,f:"federation",sp:4,str:2.5},
-  {x:399.3,y:559,f:"federation",sp:2.5,str:2.0},{x:400.6,y:559.6,f:"federation",sp:1.5,str:1.5},
-  {x:399.5,y:557.5,f:"federation",sp:1.5,str:1.2},
-]};
+const HM7={x0:388,y0:542,w:70,h:85,res:16,aMul:240,zones:SYSTEMS.filter(sys => ["empire", "federation"].includes(sys.f)).map(sys => ({x:sys.x,y:sys.y,f:sys.f,sp:2.5,str:2.7}))};
 // ── T8 (z<=50): Max zoom — full sector, strongest halos ──
-const HM8={x0:390,y0:544,w:65,h:82,res:20,aMul:250,zones:[
-  {x:400,y:558,f:"empire",sp:2.5,str:3.8},{x:443.3,y:547.8,f:"empire",sp:3.5,str:3.2},
-  {x:403.1,y:556,f:"empire",sp:1.8,str:2.4},{x:394.5,y:559.8,f:"empire",sp:2,str:2.4},
-  {x:399.6,y:559.5,f:"empire",sp:1.5,str:2.2},{x:401.6,y:557.7,f:"empire",sp:1.3,str:2.0},
-  {x:404.7,y:562.2,f:"empire",sp:1.8,str:2.0},{x:395.1,y:561.4,f:"empire",sp:1.8,str:1.6},
-  {x:400.5,y:557.3,f:"empire",sp:0.9,str:1.4},{x:399,y:558.6,f:"empire",sp:0.9,str:1.4},
-  {x:399.1,y:557.6,f:"empire",sp:0.8,str:1.2},{x:398.4,y:558,f:"empire",sp:0.9,str:1.4},
-  {x:400.1,y:552.6,f:"federation",sp:2.5,str:3.0},{x:420,y:620,f:"federation",sp:3,str:2.6},
-  {x:399.3,y:559,f:"federation",sp:1.8,str:2.2},{x:400.6,y:559.6,f:"federation",sp:1.2,str:1.6},
-  {x:399.5,y:557.5,f:"federation",sp:1.2,str:1.6},
-]};
+const HM8={x0:390,y0:544,w:65,h:82,res:20,aMul:250,zones:SYSTEMS.filter(sys => ["empire", "federation"].includes(sys.f)).map(sys => ({x:sys.x,y:sys.y,f:sys.f,sp:1.7,str:3.1}))};
 // Galaxy base layer — always drawn under T6/T7/T8 so territory is visible at all zoom
 const HM_GAL={x0:0,y0:0,w:800,h:810,res:2,aMul:180,zones:[
   {x:400,y:558,f:"empire",sp:200,str:2.8},
@@ -460,8 +355,9 @@ export default function GalaxyMap() {
       const MU_PER_LY = 65.15 / 444; // 0.14674
       const lyToR = (ly) => ly * MU_PER_LY;
       let rings;
-      if(z < 5) rings = [50, 100, 150, 200];
-      else rings = [10, 20, 30, 40, 50];
+      if(z < 5) rings = [100, 500, 1000];
+      else if(z < 25) rings = [15, 50, 100];
+      else rings = [5, 10, 15, 20];
       const s = 1/z;
       c.save();
       rings.forEach(ly => {
@@ -575,7 +471,7 @@ export default function GalaxyMap() {
     c.font='bold 15px "Courier New",monospace';c.fillStyle="rgba(200,210,230,0.85)";c.textAlign="center";
     c.fillText("ARCANUM \u2014 GALACTIC TERRITORY MAP",VW/2,VH-18);
     c.font='8px "Courier New",monospace';c.fillStyle="rgba(140,150,170,0.45)";
-    c.fillText("Milky Way \u00b7 Top-down projection \u00b7 Not to scale",VW/2,VH-6);
+    c.fillText("Milky Way \u00b7 Schematic directions and galactic backdrop \u00b7 Local rings show radial ly",VW/2,VH-6);
   }
 
   // ─── Input ───
@@ -670,6 +566,9 @@ export default function GalaxyMap() {
       <div style={{margin:"4px auto 16px",maxWidth:720,padding:"10px 14px",background:"rgba(8,8,18,0.55)",border:"1px solid rgba(80,90,130,0.12)",borderRadius:5,fontSize:9.5,lineHeight:1.65,color:"rgba(150,160,185,0.5)",textAlign:"center"}}>
         The Annunaki Empire (red) controls territory across the galaxy, strongest near Sol.
         Federation islands (blue) are gate-connected enclaves throughout Imperial space.
+        Local markers follow lore bible v7: grey means independent, dark teal means unconfirmed occupancy.
+        Regional colour shows broad influence, not ownership of every system. Sector radius: 1,000 ly; subsector: 100 ly.
+        Directions and galaxy-wide territorial boundaries are schematic; local radial distances are calibrated.
         <span style={{display:"block",marginTop:4,fontStyle:"italic",opacity:0.7}}>
           Scroll to zoom \u00b7 Drag to pan \u00b7 Double-click to reset \u00b7 Click systems for details
         </span>

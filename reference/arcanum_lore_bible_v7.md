@@ -5,7 +5,9 @@
 
 # OVERVIEW
 
-The Sol Sector encompasses all charted star systems within approximately 1,000 light-years of Sol. This volume of space contains millions of star systems, the vast majority uninhabited or hosting only microbial life. Multiple sapient civilisations operate within the Sector — some ancient beyond reckoning, some engineered, some native, all with competing interests, histories, and dispositions toward the species that has just begun to stir.
+**Authority:** This lore bible is definitive for setting lore, species, and affiliations. The story tracker governs enacted events and current knowledge; user corrections take priority. Secrecy descriptions below describe the pre-broadcast setting unless explicitly dated. The May 25 broadcast has exposed alien control to humanity; it does not give the protagonist every narrator-only secret. Confirmed visual references are indexed in [Visual references](visual_references.md).
+
+The Sol Sector encompasses all charted star systems within approximately 1,000 light-years of Sol: a radial volume with a 1,000 ly radius and a 2,000 ly diameter. The Sol Subsector is the inner 100 ly radius volume; it is not a square grid tile or a full-height galactic column. This volume of space contains millions of star systems, the vast majority uninhabited or hosting only microbial life. Multiple sapient civilisations operate within the Sector — some ancient beyond reckoning, some engineered, some native, all with competing interests, histories, and dispositions toward the species that has just begun to stir.
 
 The political reality of the Sector is shaped by two galactic superpowers — the **Annunaki Empire** (capital: Sol/Nibiru) and the **Galactic Federation** (core members: Arcturians, Pleiadians, Sirians) — locked in a cold war stretching back tens of millions of years. Every species in the Sector exists in relation to this conflict, whether they know it or not.
 
@@ -253,7 +255,7 @@ Sometimes the Annunaki visit on their standard 3,600-year cycle and find nothing
 - Telepathic and telekinetic capabilities
 - Possess a large amount of amphibian DNA
 - Asexual — no gender differentiation. Reproductive process involves embryo clone forming in abdominal pouch; parent's consciousness transfers to infant, original body dies
-- **Not Lyran-descended.** The Arcturians are an independent humanoid branch — convergent evolution, not shared ancestry. One of only two humanoid species (alongside the Annunaki) with no Lyran genetic heritage.
+- **Not Lyran-descended.** The Arcturians are an independent humanoid branch — convergent evolution, not shared ancestry. One of two independently evolved elder humanoid branches (alongside the original Annunaki). Arcturians have no Lyran genetic heritage; modern Annunaki later incorporated Lyran ancestry through interbreeding.
 
 ### The Arcturus System
 
@@ -451,6 +453,8 @@ The Annunaki were blindsided. They had done this thousands of times before witho
 
 ### Nephilim Survivors
 Giants and Cyclops from human mythology are **Nephilim descendants** who survived the Annunaki purge. When Nephilim bred with post-nerfing humans, the resulting offspring were large but progressively less potent — the human genome gradually overwrote the Nephilim traits across generations until the line diluted into the baseline human population. Modern **giantism** may be the last faint echo of Nephilim bloodlines in the human gene pool.
+
+**Visual canon:** Nephilim resemble an Annunaki–human cross. The supplied armoured dark-haired warrior (Image 4) is Lyran, not Nephilim. See [confirmed visual references](visual_references.md).
 
 ### Modified Nephilim — The Soldier Caste
 The Annunaki use a **controlled version of Nephilim** as the Empire's soldier caste. These modern Nephilim are deliberately bred to be **dumber and more pliable** than the originals — essentially **Ogryns**. Physically devastating but intellectually limited, easy to command. They serve as heavy military units and enforcement.
@@ -715,16 +719,6 @@ The operation worked — for a while. Norse culture produced humans who were fie
 **The irony:** The Reptilians later destroyed the Norse operation using Christianity — itself the product of a *later* Pleiadian operation. The Pleiadians' own weapon was turned against their earlier work.
 
 ### Jesus — The Pleiadian Operation
-With the Norse cultural programme being systematically dismantled by Reptilian-controlled Rome, the Federation greenlit a different Pleiadian approach — not a cultural implantation but a single operative embedded as a human. Jesus of Nazareth.
-- All Pleiadian bases in Sol identified and destroyed or captured
-- Pleiadian operatives hunted
-- All infrastructure seized and repurposed
-- The Grey bases on Luna's dark side are **former Pleiadian installations**
-- Near-total elimination of Pleiadian presence in Sol
-
-After the purge, Pleiadian operational capability in Sol is near zero. Individual contactees, information drops, extreme-risk insertions only. The loss of Sol infrastructure — and the human auxiliaries who crewed it — was catastrophic. This is when the Pleiadian military shifted almost entirely to human-crewed operations based in Federation space rather than forward-deployed in Sol.
-
-### Jesus — The Pleiadian Operation
 After the Sirians failed twice (seeding, Egypt), the Federation greenlit a Pleiadian approach. A Pleiadian operative was embedded as a human — Jesus of Nazareth.
 
 The operation succeeded culturally beyond expectation. Christianity spread values the Pleiadians intended: compassion, equality, resistance to worldly authority. The crucifixion was meant to end it and instead amplified it.
@@ -749,7 +743,7 @@ After the purge, Pleiadian operational capability in Sol is near zero. Individua
 - **Reptilians:** View as abominations (Lyran DNA in an archosaur body). No kinship, no sympathy.
 - **Greys:** Not Lyran-descended. Not their concern.
 
-**Strategic Assessment:** The Pleiadians are the military backbone of the Federation and the species most emotionally invested in human liberation — a combination that makes them both the most reliable ally and the most dangerous friend. Their warrior culture has been honed against the Annunaki over geological timescales, increasingly supplemented by human auxiliary crews who provide the numbers their small population cannot sustain. Their genetic connection to humanity makes them the most natural alien ally. However, the Federation's long-term plan for humanity (use as disposable weapon, then contain through sterilisation and breeding programmes) is known to Pleiadian leadership. Whether they agree with it, oppose it, or plan to subvert it is one of the most consequential open questions in galactic politics. An expanding human power would find the Pleiadians the most natural ally — shared Lyran heritage, shared enemy, shared history, shared warrior temperament. The question is whether that alliance survives the revelation of what the Federation actually intends for humanity after the Annunaki fall.
+**Strategic Assessment:** The Pleiadians are the military backbone of the Federation and the species most emotionally invested in human liberation — a combination that makes them both the most reliable ally and the most dangerous friend. Their warrior culture has been honed against the Annunaki over geological timescales, increasingly supplemented by human auxiliary crews who provide the numbers their small population cannot sustain. Their genetic connection to humanity makes them the most natural alien ally. However, the Federation's long-term plan for humanity (use as disposable weapon, then contain through sterilisation and breeding programmes) is restricted to the Arcturian/Sirian project leadership identified in the final Open Questions section. Pleiadian leadership is not established as knowing the secret plan. How the Pleiadians respond if they learn it remains open. An expanding human power would find the Pleiadians the most natural ally — shared Lyran heritage, shared enemy, shared history, shared warrior temperament. The question is whether that alliance survives the revelation of what the Federation actually intends for humanity after the Annunaki fall.
 
 ---
 
@@ -772,7 +766,7 @@ The Alpha Centaurians are not an independently evolved species. They are ***Nomm
 
 When the Lyran refugees arrived at Sirius in the aftermath of the Lyran War, the consequences for the Nommo — the system's original inhabitants — were dramatic. Some Nommo welcomed the newcomers and began the long process of cultural integration that would eventually produce the cosmopolitan Sirian civilisation. Some were displaced by force as the Lyran refugees claimed territory and resources. Some simply chose to leave — unwilling to share their system with an alien influx, uninterested in the political complications the refugees brought with them, and foreseeing that the Nommo would become a minority in their own home.
 
-The departures were a mix of all three. A significant Nommo population — conservative, isolationist, unwilling to be absorbed — left Sirius over a period spanning tens of thousands of years. Alpha Centauri, the nearest viable system, was their primary destination. At 4.37 light-years, it was reachable even with sublight technology, and Proxima Centauri b offered conditions the Nommo could adapt to.
+The departures were a mix of all three. A significant Nommo population — conservative, isolationist, unwilling to be absorbed — left Sirius over a period spanning tens of thousands of years. Alpha Centauri, the nearest viable system, was their primary destination. Alpha Centauri is 4.37 light-years from Sol (not the Sirius–Alpha Centauri migration distance); the migration was possible even with sublight technology, and Proxima Centauri b offered conditions the Nommo could adapt to.
 
 ### Biology
 - Amphibious humanoid. Gills and webbed limbs for aquatic operation, capable of surface activity.
@@ -952,7 +946,8 @@ Because the Arcturian gate network is limited to tactical-scale transit — pers
 - **Greys:** Space compression — distinct from Annunaki gravity-folding. Excellent for small, fast scout vessels.
 - **Capellans:** Method unknown. They decline to discuss it.
 - **Humanity (post-filter):** Alcubierre drive. Continuous frame of reference — the crew stays in normal spacetime inside the warp bubble while space itself moves around them. No existential ambiguity. You get on the ship, the ship moves, you arrive. This matters.
-- **Alpha Centaurians, Cethari, Manthari:** No FTL capability. Sublight only.
+- **Alpha Centaurians (Nommo proximi):** Reported FTL capability; method unknown, matching their species profile. Detailed capabilities remain unconfirmed.
+- **Cethari, Manthari:** No FTL capability. Sublight only.
 
 ### The Arcturian Gate Network ("Corridors")
 
@@ -1152,9 +1147,11 @@ The 3,600-year visitation cycle provides the backbone of ARCANUM chronology. Wor
 
 ### The 3,600-Year Cycle (Post-Lockdown)
 
+The catastrophic purge and the later illustrative inspection sequence are distinct. The administrative interval is approximate, not a clock that fixes every intervention; the later dates below do not redetermine the ~12,800 BCE catastrophe.
+
 | Approximate Date | Cycle # | Event |
 |-----------------|---------|-------|
-| ~10,800 BCE | 0 | Nephilim catastrophe. Younger Dryas begins. The Lockdown. |
+| ~12,800 BCE | Pre-sequence catastrophe | Nephilim catastrophe. Younger Dryas begins. The Lockdown; not the zero-point of the later illustrative inspection cadence. |
 | ~7,200 BCE | 1 | **First post-lockdown inspection.** Annunaki verify human populations are contained. Early Neolithic. Annunaki satisfied the nerf is holding. |
 | ~3,600 BCE | 2 | **Sumerian emergence.** Annunaki-approved restart of managed civilisation. Cuneiform, ziggurats, astronomical knowledge provided. Sumer is the Annunaki's latest terrarium. Resource tithe established. |
 | ~0 CE | 3 | **The Jesus Discovery.** Annunaki representative arrives on scheduled visitation. Discovers Pleiadian operative (Jesus) under the Reptilians' noses. Reptilian contingent threatened with execution. Crucifixion (~33 CE). Backfires: Christianity spreads. |

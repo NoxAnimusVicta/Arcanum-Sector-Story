@@ -5,6 +5,10 @@ This document catalogs real star systems in the Sol neighbourhood with their con
 
 ---
 
+**Canonical dimensions:** Sol Sector is a 1,000 ly radius volume (2,000 ly diameter). The inner 100 ly radius is the Sol Subsector. Canonical zones: Threshold 0–15 ly; Meridian 15–100 ly; Pale 100–1,000 ly. The catalogue’s numbered distance bands are research groupings, not competing political boundaries.
+
+**Canon boundary:** [LORE] blocks preserve external source traditions, not adopted campaign facts. Lore bible v7 is definitive for fictional worlds, species, history and affiliations; its invented inhabited worlds are intentional. Astronomy here is an imported research snapshot, not newly verified data.
+
 ## HOW TO READ THIS CATALOG
 
 - **Confirmed exoplanets** = detected and verified through peer review
@@ -531,7 +535,7 @@ All four planets are small, rocky, and tightly packed in very close orbits — n
 
 ---
 
-## ZONE 4: THE FAR FIELD (50–500 LY)
+## ZONE 4: THE FAR FIELD (50–1,000 LY)
 
 ### ALPHA DRACONIS / THUBAN — ~303 ly
 **Stars:** Spectroscopic eclipsing binary
