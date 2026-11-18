@@ -1,4 +1,4 @@
 import { createRoot } from "react-dom/client";
-import GalaxyMap from "./arcanum_galaxy_map.jsx";
+import Companion from "./Companion.jsx";
 
-createRoot(document.getElementById("root")).render(<GalaxyMap />);
+createRoot(document.getElementById("root")).render(<Companion />);

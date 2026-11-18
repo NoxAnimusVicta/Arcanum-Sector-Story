@@ -1,0 +1,1187 @@
+{
+  "schemaVersion": 1,
+  "recordedThrough": "arcanum-2028-05-25-broadcast-complete",
+  "snapshot": {
+    "date": "2028-05-25",
+    "localTime": "21:49",
+    "approximate": true,
+    "day": 27,
+    "label": "25 May 2028 · ~9:49 PM",
+    "location": "Uluru · Level 14",
+    "event": "The Broadcast",
+    "sourceSha256": "35da3a06ada9cb782e6ad04499dc7f986ff8cb7a4bc390719df99b9dde1d452e"
+  },
+  "character": {
+    "name": "Protagonist",
+    "designation": "Prometheus",
+    "species": "Homo Superior",
+    "age": 28,
+    "height": "165 cm",
+    "condition": "Fully healed",
+    "portrait": "./art/protagonist.jpg",
+    "appearance": "Bone-white hair. Gold irises. A white, high-collared nanite coat traced with luminous gold heptagons.",
+    "summary": "The broadcast is over. The world knows. Beneath Uluru, the complex is sealed and the nine Progenitors hold their positions.",
+    "energy": 89.7,
+    "reinforcement": 34,
+    "shoulderReinforcement": "38–40%",
+    "swarm": "~8.4 × 10¹⁹",
+    "sensing": "14 km",
+    "orbital": "None deployed",
+    "conversion": "Organic integration complete"
+  },
+  "techniques": [
+    {
+      "id": "sphere",
+      "name": "Sphere",
+      "summary": "Instant form/hold/release",
+      "details": {
+        "Recorded Technique": "Instant form/hold/release; resizable (marble to 1m); mobile in arcs",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Mastered",
+      "category": "Swarm Forms",
+      "icon": "⬡"
+    },
+    {
+      "id": "humanoid-copy",
+      "name": "Humanoid Copy",
+      "summary": "Proportionally correct",
+      "details": {
+        "Recorded Technique": "Proportionally correct; perfect movement sync; featureless grey silhouette; needs higher density or new technique for surface detail",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Functional",
+      "category": "Swarm Forms",
+      "icon": "⬡"
+    },
+    {
+      "id": "mechadendrites",
+      "name": "Mechadendrites",
+      "summary": "2 per shoulder",
+      "details": {
+        "Recorded Technique": "2 per shoulder; 2m reach; 2cm diameter; independent fine motor control; still jerky; dexterity ≈ gloved hand",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Functional (×4)",
+      "category": "Swarm Forms",
+      "icon": "⬡"
+    },
+    {
+      "id": "water-condensation",
+      "name": "Water — Condensation",
+      "summary": "~2 litres/min at 10T from atmosphere",
+      "details": {
+        "Recorded Technique": "~2 litres/min at 10T from atmosphere; near water source: functionally unlimited",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Practiced",
+      "category": "Elemental",
+      "icon": "◈"
+    },
+    {
+      "id": "water-pressure-stream",
+      "name": "Water — Pressure Stream",
+      "summary": "Strips bark at 6m, gouges sapwood at 3m",
+      "details": {
+        "Recorded Technique": "Strips bark at 6m, gouges sapwood at 3m; nanite nozzle for focus",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Functional",
+      "category": "Elemental",
+      "icon": "◈"
+    },
+    {
+      "id": "water-tendril-whip",
+      "name": "Water — Tendril Whip",
+      "summary": "5m+ effective range at 10T",
+      "details": {
+        "Recorded Technique": "5m+ effective range at 10T; nanite-hardened edge on contact; hybrid water+nanite weapon; ~1cm gouge into hardwood",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Functional",
+      "category": "Elemental",
+      "icon": "◈"
+    },
+    {
+      "id": "earth-disc-mass-lift",
+      "name": "Earth — Disc/Mass Lift",
+      "summary": "~500 kg loose soil",
+      "details": {
+        "Recorded Technique": "~500 kg loose soil; ~50 kg solid rock (surface grip); thrown disc staggered/cracked a 30cm eucalyptus trunk",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Functional",
+      "category": "Elemental",
+      "icon": "◈"
+    },
+    {
+      "id": "earth-soil-shaping",
+      "name": "Earth — Soil Shaping",
+      "summary": "Streams, columns, walls",
+      "details": {
+        "Recorded Technique": "Streams, columns, walls; compressed sand projectiles (embed in sapwood); structural compression walls in seconds",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Functional",
+      "category": "Elemental",
+      "icon": "◈"
+    },
+    {
+      "id": "earth-rock-shattering",
+      "name": "Earth — Rock Shattering",
+      "summary": "Nanites infiltrate micro-fractures and crystal boundaries",
+      "details": {
+        "Recorded Technique": "Nanites infiltrate micro-fractures and crystal boundaries; apply outward pressure along natural fault lines; splits boulders via intelligence not force",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Functional",
+      "category": "Elemental",
+      "icon": "◈"
+    },
+    {
+      "id": "air-push",
+      "name": "Air — Push",
+      "summary": "Sustained gale-force wind in focused corridor",
+      "details": {
+        "Recorded Technique": "Sustained gale-force wind in focused corridor; strips loose material at distance",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Functional",
+      "category": "Elemental",
+      "icon": "◈"
+    },
+    {
+      "id": "air-blast",
+      "name": "Air — Blast",
+      "summary": "Concussive; knock adult off feet at 20m",
+      "details": {
+        "Current Capability": "Concussive; knock adult off feet at 20m",
+        "Practical Limits & Context": "Compressed air release",
+        "Energy": "Negligible fraction of the current swarm reserve."
+      },
+      "status": "Functional",
+      "category": "Elemental",
+      "icon": "◈"
+    },
+    {
+      "id": "air-cushion",
+      "name": "Air — Cushion",
+      "summary": "Compressed air beneath/around objects",
+      "details": {
+        "Recorded Technique": "Compressed air beneath/around objects; successfully slowed falling branch from lethal to gentle impact",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Functional",
+      "category": "Elemental",
+      "icon": "◈"
+    },
+    {
+      "id": "air-shield",
+      "name": "Air — Shield",
+      "summary": "Dense nanite curtain maintaining pressure differential",
+      "details": {
+        "Recorded Technique": "Dense nanite curtain maintaining pressure differential; deflects incoming wind/projectiles while air behind remains still",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Functional",
+      "category": "Elemental",
+      "icon": "◈"
+    },
+    {
+      "id": "fire-spark",
+      "name": "Fire — Spark",
+      "summary": "Instant, tiny, repeatable",
+      "details": {
+        "Recorded Technique": "Instant, tiny, repeatable; nanite piezoelectric collision",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Functional",
+      "category": "Elemental",
+      "icon": "◈"
+    },
+    {
+      "id": "fire-jet",
+      "name": "Fire — Jet",
+      "summary": "Directional, 2–3 sec",
+      "details": {
+        "Recorded Technique": "Directional, 2–3 sec; nanite nozzle + hydrogen feed (from electrolysis of atmospheric moisture); O₂ intensification",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Functional",
+      "category": "Elemental",
+      "icon": "◈"
+    },
+    {
+      "id": "fire-burst",
+      "name": "Fire — Burst",
+      "summary": "Basketball-sized fireball",
+      "details": {
+        "Recorded Technique": "Basketball-sized fireball; ~1 sec; needs ~20 min H₂ accumulation via electrolysis of atmospheric moisture (H₂O → H₂ + O₂); faster near liquid water source",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Functional",
+      "category": "Elemental",
+      "icon": "◈"
+    },
+    {
+      "id": "plasma-bolt",
+      "name": "Plasma — Bolt",
+      "summary": "18m effective (char); 10m vitrification",
+      "details": {
+        "Current Capability": "18m effective (char); 10m vitrification",
+        "Practical Limits & Context": "Wave-propagation corridor",
+        "Energy": "Negligible fraction of the current swarm reserve."
+      },
+      "status": "Improved",
+      "category": "Elemental",
+      "icon": "◈"
+    },
+    {
+      "id": "nanite-gauntlets",
+      "name": "Nanite Gauntlets",
+      "summary": "~1,100 kg calculated force (adjustable)",
+      "details": {
+        "Current Capability": "~1,100 kg calculated force (adjustable)",
+        "Practical Limits & Context": "COMBAT-PROVEN: Broke Reptilian mandible (~40% denser than human bone). Punched through reinforced steel window frame. Rotating molecular surface shears steel.",
+        "Energy": "Negligible fraction of the current swarm reserve."
+      },
+      "status": "Functional",
+      "category": "Combat",
+      "icon": "◇"
+    },
+    {
+      "id": "enhanced-muscle-recruitment",
+      "name": "Enhanced Muscle Recruitment",
+      "summary": "~85–90% fibre activation",
+      "details": {
+        "Recorded Technique": "~85–90% fibre activation; ~2,400–2,700N peak force; competitive boxer without training; high caloric cost",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Functional",
+      "category": "Combat",
+      "icon": "◇"
+    },
+    {
+      "id": "standing-flurry",
+      "name": "Standing Flurry",
+      "summary": "~4,465 J total, 47 strikes",
+      "details": {
+        "Current Capability": "~4,465 J total, 47 strikes",
+        "Practical Limits & Context": "11.3 strikes/sec, each catastrophic vs humans",
+        "Energy": "Negligible fraction of the current swarm reserve."
+      },
+      "status": "Baselined (Day 14)",
+      "category": "Combat",
+      "icon": "◇"
+    },
+    {
+      "id": "sprint-superman-punch-10m",
+      "name": "Sprint Superman Punch (10m)",
+      "summary": "~5,620 J, ~72,000N peak",
+      "details": {
+        "Current Capability": "~5,620 J, ~72,000N peak",
+        "Practical Limits & Context": "Single-use limited by shoulder (3-4 uses at 38-40%)",
+        "Energy": "Negligible fraction of the current swarm reserve."
+      },
+      "status": "Baselined (Day 14)",
+      "category": "Combat",
+      "icon": "◇"
+    },
+    {
+      "id": "nanite-railgun-mk-ii",
+      "name": "Nanite Railgun (Mk II)",
+      "summary": "~10,140 J, Mach 1.04, 48.3cm penetration",
+      "details": {
+        "Current Capability": "~10,140 J, Mach 1.04, 48.3cm penetration",
+        "Practical Limits & Context": "HMG-class. Infinite ammo. 1.5-2 sec deploy. Sonic boom.",
+        "Energy": "Negligible fraction of the current swarm reserve."
+      },
+      "status": "Functional (Day 14)",
+      "category": "Combat",
+      "icon": "◇"
+    },
+    {
+      "id": "water-multi-tendril-2",
+      "name": "Water — Multi-Tendril (×2)",
+      "summary": "×2 independent at 5m; ×3 collapses",
+      "details": {
+        "Current Capability": "×2 independent at 5m; ×3 collapses",
+        "Practical Limits & Context": "Cognitive bottleneck, not swarm",
+        "Energy": "Negligible fraction of the current swarm reserve."
+      },
+      "status": "Functional",
+      "category": "Advanced",
+      "icon": "⌁"
+    },
+    {
+      "id": "earth-high-density-compression",
+      "name": "Earth — High-Density Compression",
+      "summary": "Nanite binding matrix creates near-concrete density",
+      "details": {
+        "Recorded Technique": "Nanite binding matrix creates near-concrete density; cricket-ball projectile cracks tree trunks at 15m; implications for Uluru construction (molecular restructured arkose sandstone > reinforced concrete)",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Refined",
+      "category": "Advanced",
+      "icon": "⌁"
+    },
+    {
+      "id": "nanite-sword",
+      "name": "Nanite Sword",
+      "summary": "Molecular edge, self-cycling",
+      "details": {
+        "Current Capability": "Molecular edge, self-cycling",
+        "Practical Limits & Context": "Cuts wood cleanly",
+        "Energy": "Negligible fraction of the current swarm reserve."
+      },
+      "status": "Functional",
+      "category": "Advanced",
+      "icon": "⌁"
+    },
+    {
+      "id": "nanite-spear",
+      "name": "Nanite Spear",
+      "summary": "2m, rigid triple-layer shaft, molecular point",
+      "details": {
+        "Recorded Technique": "2m, rigid triple-layer shaft, molecular point; 15cm penetration in hardwood; on impact nanites dissolve back into atmospheric swarm and clothing layer replenishes from atmospheric reserve — no retrieval needed, weapon is disposable by design",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Functional",
+      "category": "Advanced",
+      "icon": "⌁"
+    },
+    {
+      "id": "clothing-tendrils-4",
+      "name": "Clothing Tendrils (×4)",
+      "summary": "4 semi-independent, ~1 sec multi-strike",
+      "details": {
+        "Current Capability": "4 semi-independent, ~1 sec multi-strike",
+        "Practical Limits & Context": "Faster than atmospheric tendrils",
+        "Energy": "Negligible fraction of the current swarm reserve."
+      },
+      "status": "Functional",
+      "category": "Advanced",
+      "icon": "⌁"
+    },
+    {
+      "id": "acoustic-voice-projection",
+      "name": "Acoustic — Voice Projection",
+      "summary": "Throw convincing whisper to specific point at 15m",
+      "details": {
+        "Recorded Technique": "Throw convincing whisper to specific point at 15m; rough fidelity; nanite vibration at coordinated frequencies",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Functional",
+      "category": "Advanced",
+      "icon": "⌁"
+    },
+    {
+      "id": "acoustic-infrasound",
+      "name": "Acoustic — Infrasound",
+      "summary": "Incapacitating at close range",
+      "details": {
+        "Current Capability": "Incapacitating at close range",
+        "Practical Limits & Context": "14Hz; nausea, panic",
+        "Energy": "Negligible fraction of the current swarm reserve."
+      },
+      "status": "Functional",
+      "category": "Advanced",
+      "icon": "⌁"
+    },
+    {
+      "id": "acoustic-internal-voice",
+      "name": "Acoustic — Internal Voice",
+      "summary": "Indistinguishable from thought",
+      "details": {
+        "Current Capability": "Indistinguishable from thought",
+        "Practical Limits & Context": "COMBAT-PROVEN: Private acoustic beam to Selkirk at 12m (nanite phased array)",
+        "Energy": "Negligible fraction of the current swarm reserve."
+      },
+      "status": "Functional",
+      "category": "Advanced",
+      "icon": "⌁"
+    },
+    {
+      "id": "electrical-arc",
+      "name": "Electrical Arc",
+      "summary": "1.5m kill; 3m damage; sustained 1m×3sec",
+      "details": {
+        "Current Capability": "1.5m kill; 3m damage; sustained 1m×3sec",
+        "Practical Limits & Context": "Capacitor replenishment near-instant at this scale",
+        "Energy": "Negligible fraction of the current swarm reserve."
+      },
+      "status": "Functional",
+      "category": "Advanced",
+      "icon": "⌁"
+    },
+    {
+      "id": "sustained-arc",
+      "name": "Sustained Arc",
+      "summary": "1m arc sustained for 3 sec",
+      "details": {
+        "Recorded Technique": "1m arc sustained for 3 sec; looks/sounds like plasma cutter; heavy energy drain",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Functional",
+      "category": "Advanced",
+      "icon": "⌁"
+    },
+    {
+      "id": "contact-discharge",
+      "name": "Contact Discharge",
+      "summary": "Lethal through touch",
+      "details": {
+        "Current Capability": "Lethal through touch",
+        "Practical Limits & Context": "Stops hearts, fries electronics",
+        "Energy": "Negligible fraction of the current swarm reserve."
+      },
+      "status": "Functional",
+      "category": "Advanced",
+      "icon": "⌁"
+    },
+    {
+      "id": "emp-localised-directed",
+      "name": "EMP — Localised Directed",
+      "summary": "60° cone, 30m+ range",
+      "details": {
+        "Current Capability": "60° cone, 30m+ range",
+        "Practical Limits & Context": "Kills all electronics in cone",
+        "Energy": "Negligible fraction of the current swarm reserve."
+      },
+      "status": "Improved",
+      "category": "Advanced",
+      "icon": "⌁"
+    },
+    {
+      "id": "nanite-projectile",
+      "name": "Nanite Projectile",
+      "summary": "Marble-sized cluster at ~90 m/s via magnetic rail",
+      "details": {
+        "Recorded Technique": "Marble-sized cluster at ~90 m/s via magnetic rail; embeds in wood; can disperse on impact for remote nanite infection/control of target surface. Delivery mechanism. Cost trivial at 10T.",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Functional",
+      "category": "Advanced",
+      "icon": "⌁"
+    },
+    {
+      "id": "technique-integration",
+      "name": "Technique Integration",
+      "summary": "Two-technique fluid combinations work (tendril→blast, grab→discharge)",
+      "details": {
+        "Recorded Technique": "Two-technique fluid combinations work (tendril→blast, grab→discharge); five-technique combat sequence achieved in 7 sec but cognitive load causes dizziness. Biological motor cortex is bottleneck — new neural pathways being grown via background process to expand multi-limb and multi-technique capacity over coming weeks/months.",
+        "Current Energy Context": "Early training measurements. At the Day 27 swarm scale, existing techniques use negligible fractions of reserves. Recorded delivery and cognitive limits still matter."
+      },
+      "status": "Developing",
+      "category": "Advanced",
+      "icon": "⌁"
+    },
+    {
+      "id": "rock-pillar-launch",
+      "name": "Rock Pillar Launch",
+      "summary": "Vehicle-destroying. 3m diameter arkose column, ~90 km/h upward.",
+      "details": {
+        "Current Capability": "Vehicle-destroying. 3m diameter arkose column, ~90 km/h upward.",
+        "Practical Limits & Context": "COMBAT-PROVEN (May 25): Launched 2,700 kg Suburban ~6m into air, total destruction. Earth-bending gesture control.",
+        "Energy": "Negligible fraction of the current swarm reserve."
+      },
+      "status": "Demonstrated",
+      "category": "Swarm Operations",
+      "icon": "⬡"
+    },
+    {
+      "id": "magnetic-corridor-mass-launch",
+      "name": "Magnetic Corridor Mass-Launch",
+      "summary": "Suborbital/orbital launch capability",
+      "details": {
+        "Current Capability": "Suborbital/orbital launch capability",
+        "Practical Limits & Context": "COMBAT-PROVEN (May 25): Launched ~90 kg entity past Kármán line (100+ km). Sonic boom. Ionised air column. Multiple quintillion nanites in corridor chain. Survivable acceleration for enhanced biology (~0.5 sec).",
+        "Energy": "~2.5% of reserves in the recorded engagement."
+      },
+      "status": "Demonstrated",
+      "category": "Swarm Operations",
+      "icon": "⬡"
+    },
+    {
+      "id": "soldier-enhancement",
+      "name": "Soldier Enhancement",
+      "summary": "Nanite coating (protective layer + insignia) + weapon upgrade (~30-40% nanite mass, mag corridors, holographic/thermal/IR sights)",
+      "details": {
+        "Current Capability": "Nanite coating (protective layer + insignia) + weapon upgrade (~30-40% nanite mass, mag corridors, holographic/thermal/IR sights)",
+        "Practical Limits & Context": "COMBAT-PROVEN: Enhanced ~21 weapons + coated ~25 soldiers in ~3 seconds.",
+        "Energy": "Negligible fraction of the current swarm reserve."
+      },
+      "status": "Demonstrated",
+      "category": "Swarm Operations",
+      "icon": "⬡"
+    }
+  ],
+  "inventory": [
+    {
+      "id": "pelican-1600-hardcase",
+      "name": "Pelican 1600 Hardcase",
+      "summary": "In HiLux tray",
+      "details": {
+        "Location": "~4 kg / Level 3 garage"
+      },
+      "status": "",
+      "group": "Level 3 Garage"
+    },
+    {
+      "id": "wallet",
+      "name": "Wallet",
+      "summary": "Driver's licence, Medicare card, ~$323.30 AUD cash",
+      "details": {
+        "Location": "0.1 kg / on person"
+      },
+      "status": "",
+      "group": "On You"
+    },
+    {
+      "id": "car-keys",
+      "name": "Car keys",
+      "summary": "2019 Toyota HiLux (Level 3 garage, fuel ~half tank)",
+      "details": {
+        "Location": "on person"
+      },
+      "status": "",
+      "group": "On You"
+    },
+    {
+      "id": "backpack",
+      "name": "Backpack",
+      "summary": "Laptop (ThinkPad), charging cables, basic toiletries",
+      "details": {
+        "Location": "~3 kg / Level 1"
+      },
+      "status": "",
+      "group": "Level 1"
+    },
+    {
+      "id": "bic-lighter",
+      "name": "Bic lighter",
+      "summary": "Red, partially used",
+      "details": {
+        "Location": "on person"
+      },
+      "status": "",
+      "group": "On You"
+    },
+    {
+      "id": "winfield-blue-25s",
+      "name": "Winfield Blue 25s",
+      "summary": "~18 remaining",
+      "details": {
+        "Location": "on person"
+      },
+      "status": "",
+      "group": "On You"
+    },
+    {
+      "id": "park-map",
+      "name": "Park map",
+      "summary": "Glossy, from ranger at Uluru gate",
+      "details": {
+        "Location": "on person"
+      },
+      "status": "",
+      "group": "On You"
+    },
+    {
+      "id": "nanite-outfit",
+      "name": "Nanite Outfit",
+      "summary": "White coat, shirt, jeans, gloves and boots",
+      "details": {
+        "Appearance": "High cylindrical collar, bone-white fabric and gold heptagonal outlines. Glove circuitry appears when channelling energy.",
+        "Properties": "Self-cleaning nanite construction. Body and clothing allocation combined: approximately 80 trillion nanites.",
+        "History": "Current design adopted 21 May."
+      },
+      "status": "Worn",
+      "group": "On You"
+    },
+    {
+      "id": "hilux",
+      "name": "2019 Toyota HiLux",
+      "summary": "Fuel approximately half a tank",
+      "details": {
+        "Location": "Level 3 garage",
+        "Contents": "Pelican hardcase; partial bottle of water. Personal groceries exhausted 23 May."
+      },
+      "status": "",
+      "group": "Level 3 Garage"
+    },
+    {
+      "id": "rations",
+      "name": "Combat Ration Packs",
+      "summary": "Approximately 400 packs",
+      "details": {
+        "Provenance": "Recovered military supplies, inventoried by Calyx on 25 May.",
+        "Planning": "Further provisioning required for the enlarged population."
+      },
+      "status": "",
+      "group": "Base Stores"
+    },
+    {
+      "id": "water",
+      "name": "Recovered Water",
+      "summary": "60 litres plus canteens",
+      "details": {
+        "Provenance": "Recovered military supplies. Level 14 springs exist; potable-water processing has not been separately logged."
+      },
+      "status": "",
+      "group": "Base Stores"
+    },
+    {
+      "id": "wartooth",
+      "name": "WARTOOTH",
+      "summary": "Captured 15 m × 8 m alien craft",
+      "details": {
+        "Status": "Secured in Level 2 vehicle bay. Known flight speed: Mach 1.4.",
+        "Provenance": "Arrived with Halcott, six soldiers and Kessith on 25 May."
+      },
+      "status": "",
+      "group": "Level 2 Vehicle Bay"
+    }
+  ],
+  "people": [
+    {
+      "id": "pallas",
+      "name": "Pallas",
+      "summary": "Coordinator & historian",
+      "details": {
+        "Current Assignment": "Escorted Super Hornet pilots + snipers to quarters. Now available.",
+        "Appearance": "Sturdy Caucasian male, thick brown beard (silver-grey threads at temples/jaw), short trimmed hair",
+        "Apparent Age": "~30",
+        "Embodiment": "Nanite body activated 18 May 2028. Chronological age is distinct from apparent age.",
+        "Height": "~6.5ft",
+        "Eyes": "Gleaming purple with faint violet luminescence (low light)",
+        "Voice": "Warm baritone",
+        "Distinguishing Features": "Broad-shouldered, commanding presence"
+      },
+      "status": "Ready",
+      "group": "Progenitors",
+      "location": "Level 5 (prisoner section)"
+    },
+    {
+      "id": "surin",
+      "name": "Surin",
+      "summary": "Intelligence",
+      "details": {
+        "Current Assignment": "Boarded both attack helicopters mid-flight. Disarmed weapons systems. Now repositioned inside complex.",
+        "Appearance": "Slender Arabian male, short goatee/moustache",
+        "Apparent Age": "~25",
+        "Embodiment": "Nanite body activated 18 May 2028. Chronological age is distinct from apparent age.",
+        "Height": "~6.5ft",
+        "Eyes": "Deep blue",
+        "Voice": "Very soft, precise",
+        "Distinguishing Features": "Retractable midnight-blue feathered wings (4m span); activatable indigo geometric dermal pattern (jaw/neck)"
+      },
+      "status": "Ready",
+      "group": "Progenitors",
+      "location": "Mobile / Shadow"
+    },
+    {
+      "id": "marcheur",
+      "name": "Marcheur",
+      "summary": "Infrastructure & logistics",
+      "details": {
+        "Current Assignment": "Led all vehicle/aircraft intake. Managing facade reconstruction + AWACS debris cleanup (4 hr, automated). HUD cycling.",
+        "Appearance": "Small-framed Caucasian male, freckled (face + hands), large square HUD glasses",
+        "Apparent Age": "~27",
+        "Embodiment": "Nanite body activated 18 May 2028. Chronological age is distinct from apparent age.",
+        "Height": "~6.5ft",
+        "Eyes": "Warm brown",
+        "Voice": "Nasal, precise",
+        "Distinguishing Features": "HUD glasses display schematics/data (natural swarm use); led base construction"
+      },
+      "status": "Active — engineering",
+      "group": "Progenitors",
+      "location": "Level 2 (vehicle bay) / construction oversight"
+    },
+    {
+      "id": "lumen",
+      "name": "Lumen",
+      "summary": "Daughter · aerial overwatch",
+      "details": {
+        "Current Assignment": "Intercepted fleeing Black Hawk (disabled tail rotor, forced landing). Grounded Yulara Black Hawk. Now aerial overwatch — watching for Annunaki approach vectors. Hair white (matching Father).",
+        "Appearance": "Caucasian female with long hair, currently white to match Father following the broadcast. Colour can change with emotion.",
+        "Apparent Age": "~20 (variable)",
+        "Embodiment": "Nanite body activated 18 May 2028. Chronological age is distinct from apparent age.",
+        "Height": "~6.5ft",
+        "Eyes": "Beaming green",
+        "Voice": "Bright, bubbly",
+        "Distinguishing Features": "Translucent iridescent dragonfly wings (retractable); most emotionally responsive"
+      },
+      "status": "Overwatch — HIGH ALERT",
+      "group": "Progenitors",
+      "location": "AIRBORNE (~3,000m)"
+    },
+    {
+      "id": "tenzin",
+      "name": "Tenzin",
+      "summary": "Intelligence & archives",
+      "details": {
+        "Current Assignment": "COERCIVE INTERROGATION of captive Reptilian with Axiom + Sable. Extracted: Scouring Tide protocol, relay satellite, 60-year Annunaki silence, inner system garrison inference, Filter threshold details. Sub-harmonic active.",
+        "Appearance": "African American male, short white hair, deeply wrinkled face, slender but toned, ramrod posture",
+        "Apparent Age": "Mid-70s",
+        "Embodiment": "Nanite body activated 18 May 2028. Chronological age is distinct from apparent age.",
+        "Height": "~6.5ft",
+        "Eyes": "Dark brown (near-black)",
+        "Voice": "Smooth, melodious with sub-harmonic chest resonance",
+        "Distinguishing Features": "Carries weight of intelligence briefing; cathedral-organ undertone"
+      },
+      "status": "Active interrogation",
+      "group": "Progenitors",
+      "location": "Level 12 (interrogation)"
+    },
+    {
+      "id": "sable",
+      "name": "Sable",
+      "summary": "Analysis",
+      "details": {
+        "Current Assignment": "Assisting Tenzin. Analytical pressure — reading micro-expressions, identifying deception, precision questioning. Broke captive's rationing of intelligence.",
+        "Appearance": "Caucasian male, short blonde hair (silver streak left temple), calculating smirk",
+        "Apparent Age": "Early 20s",
+        "Embodiment": "Nanite body activated 18 May 2028. Chronological age is distinct from apparent age.",
+        "Height": "~6.5ft",
+        "Eyes": "Crystalline faceted amber (internal refraction, clearly non-biological up close)",
+        "Voice": "Confident, smooth",
+        "Distinguishing Features": "Always evaluating"
+      },
+      "status": "Active interrogation",
+      "group": "Progenitors",
+      "location": "Level 12 (interrogation)"
+    },
+    {
+      "id": "revenant",
+      "name": "Revenant",
+      "summary": "Security",
+      "details": {
+        "Current Assignment": "PRIMARY GUARD between allied (Level 4) and prisoner (Level 5) sections. Has not moved. Silver-white eyes active. ~74 prisoners under his watch.",
+        "Appearance": "Gaunt Caucasian male, extremely thin frame, deep-set eyes",
+        "Apparent Age": "Mid-40s",
+        "Embodiment": "Nanite body activated 18 May 2028. Chronological age is distinct from apparent age.",
+        "Height": "~6.5ft",
+        "Eyes": "Pale grey (switchable to silver-white for full-spectrum IR/UV vision)",
+        "Voice": "Hoarse, raspy",
+        "Distinguishing Features": "Fastest mover; security posture; injuries visibly scar (sub-code)"
+      },
+      "status": "Overwatch — static",
+      "group": "Progenitors",
+      "location": "Level 5 junction"
+    },
+    {
+      "id": "axiom",
+      "name": "Axiom",
+      "summary": "Tactical command",
+      "details": {
+        "Current Assignment": "Moved WARTOOTH and vehicles into Level 2 before ~9:04 PM; joined Tenzin and Sable for interrogation at ~9:22 PM. Applied physical pressure; dragon blazing.",
+        "Appearance": "Japanese male, long flowing black hair, heavyweight build (+85 kg muscle)",
+        "Apparent Age": "Mid-40s",
+        "Embodiment": "Nanite body activated 18 May 2028. Chronological age is distinct from apparent age.",
+        "Height": "~6.5ft",
+        "Eyes": "Dark brown",
+        "Voice": "Loud, boisterous, Japanese accent",
+        "Distinguishing Features": "Gold luminescent dragon back tattoo (activatable); physically dominant"
+      },
+      "status": "Active — interrogation",
+      "group": "Progenitors",
+      "location": "Level 12 (interrogation)"
+    },
+    {
+      "id": "calyx",
+      "name": "Calyx",
+      "summary": "Quartermaster & counsel",
+      "details": {
+        "Current Assignment": "Directed all personnel intake. Assigned quarters. Inventoried provisions (~400 ration packs, 60L water). Managing passive monitoring of global telecom networks post-broadcast.",
+        "Appearance": "Caucasian female (British), long brown hair, toned/well-proportioned, perfect posture",
+        "Apparent Age": "Early 30s",
+        "Embodiment": "Nanite body activated 18 May 2028. Chronological age is distinct from apparent age.",
+        "Height": "~6.5ft",
+        "Eyes": "Deep green with faint bioluminescent ring (visible dim light)",
+        "Voice": "British accent, composed; focused acoustic projection (natural swarm use)",
+        "Distinguishing Features": "Last to form; observed siblings first; deliberate"
+      },
+      "status": "Active — logistics + signals",
+      "group": "Progenitors",
+      "location": "Levels 4-5 (quartermaster)"
+    },
+    {
+      "id": "selkirk",
+      "name": "Graeme Selkirk",
+      "summary": "Brigadier · Australian ally",
+      "details": {
+        "Current Circumstances": "Abandoned the Liaison Programme and sided with the protagonist. Australian personnel rearmed with nanite-enhanced weapons.",
+        "Appearance": "Tall, approximately 188 cm; close-cropped grey hair, weathered face.",
+        "Age": "Not recorded. 31 years of service.",
+        "Voice": "Queensland accent tempered by international service."
+      },
+      "status": "Allied",
+      "group": "Contacts"
+    },
+    {
+      "id": "halcott",
+      "name": "Corrin Halcott",
+      "summary": "WARTOOTH intermediary",
+      "details": {
+        "Current Circumstances": "Executed Kessith after the false gate transit was exposed. Provisional ally, quartered separately with six soldiers. Their seven alien weapons remain in their possession.",
+        "Background": "From Tennant Creek; former jackaroo. Twelve years as Kessith’s intermediary.",
+        "Age": "Not explicitly recorded."
+      },
+      "status": "Provisional ally",
+      "group": "Contacts",
+      "location": "Level 4"
+    },
+    {
+      "id": "captive-operative",
+      "name": "Reptilian Operative",
+      "summary": "Captured field operative",
+      "details": {
+        "Current Circumstances": "Interrogation continuing with Tenzin, Axiom and Sable. Mandible reset for speech.",
+        "Appearance": "Grey-brown scales, amber slit pupils; approximately 110 kg.",
+        "Age": "91 years on Earth; total age not established."
+      },
+      "status": "Captive",
+      "group": "Contacts",
+      "location": "Level 12"
+    },
+    {
+      "id": "kessith",
+      "name": "Kessith",
+      "summary": "Reptilian · Artisan caste",
+      "details": {
+        "History": "Executed by Halcott at approximately 8:42 PM. Molecular autopsy continuing on Level 30.",
+        "Age": "800+ years of operational memory."
+      },
+      "status": "Deceased",
+      "group": "Contacts",
+      "location": "Level 30"
+    }
+  ],
+  "projects": [
+    {
+      "id": "defences",
+      "name": "Uluru Defence",
+      "summary": "Prepare for a possible Annunaki response",
+      "details": {
+        "Next Step": "Player decision on defensive priorities.",
+        "Constraints": "Composition, arrival time and approach are unknown. The recorded assessment is minutes to hours, not a confirmed countdown."
+      },
+      "status": "Immediate"
+    },
+    {
+      "id": "prisoners",
+      "name": "Prisoner Disposition",
+      "summary": "74 prisoners on Level 5",
+      "details": {
+        "Contact": "Revenant guards the junction; Pallas is available.",
+        "Next Step": "Decide their status and arrangements."
+      },
+      "status": "Decision Needed"
+    },
+    {
+      "id": "alien-weapons",
+      "name": "Alien Weapons",
+      "summary": "Seven weapons remain with Halcott’s group",
+      "details": {
+        "Location": "Level 4",
+        "Next Step": "Decide custody and handling."
+      },
+      "status": "Decision Needed"
+    },
+    {
+      "id": "provisions",
+      "name": "Provisioning",
+      "summary": "Sustain the expanded population",
+      "details": {
+        "Current Supplies": "Approximately 400 ration packs and 60 litres of water plus canteens.",
+        "Next Step": "Establish further food and water supply."
+      },
+      "status": "Ongoing"
+    },
+    {
+      "id": "relay",
+      "name": "Alcubierre Relay",
+      "summary": "Candidate C under development",
+      "details": {
+        "Current Work": "Triple-layered, self-sustaining toroid. Data and energy relay research remains the critical path.",
+        "Estimate": "Days to approximately one week in the source; not a completion promise.",
+        "Dependency": "Dyson mesh and concentrated high-output energy applications depend on this breakthrough."
+      },
+      "status": "Research"
+    },
+    {
+      "id": "genome",
+      "name": "Genomic Mapping",
+      "summary": "Approximately 62% mapped",
+      "details": {
+        "Current Work": "Investigating dormant non-baseline sequences and containment architecture.",
+        "Next Step": "Complete mapping before considering intervention. Origin remains unknown."
+      },
+      "status": "Research"
+    },
+    {
+      "id": "archives",
+      "name": "Reptilian Archives",
+      "summary": "Approximately 60% decoded",
+      "details": {
+        "Contact": "Tenzin",
+        "Current Work": "Decoding and cross-analysis continue."
+      },
+      "status": "Research"
+    },
+    {
+      "id": "matrioshka",
+      "name": "Matrioshka Shell 1",
+      "summary": "Construction at approximately 60 km depth",
+      "details": {
+        "Current Work": "Lateral upper-mantle construction with early geothermal generation. Deeper bores continue."
+      },
+      "status": "Construction"
+    },
+    {
+      "id": "autopsy",
+      "name": "Kessith Autopsy",
+      "summary": "Molecular analysis on Level 30",
+      "details": {
+        "Current Work": "First complete Reptilian specimen under unrestricted analysis."
+      },
+      "status": "Ongoing"
+    },
+    {
+      "id": "broadcast",
+      "name": "Global Broadcast",
+      "summary": "Completed at approximately 9:49 PM",
+      "details": {
+        "Result": "3 minutes 41 seconds. Alien control exposed, war declared, Uluru location transmitted. Infrastructure returned intact."
+      },
+      "status": "Complete"
+    },
+    {
+      "id": "migration",
+      "name": "Uluru Migration",
+      "summary": "All nine Progenitors hosted locally",
+      "details": {
+        "Result": "Migration completed 19 May, approximately 4:28 AM. Former Norway hardware wiped."
+      },
+      "status": "Complete"
+    }
+  ],
+  "places": [
+    {
+      "id": "uluru",
+      "name": "Uluru Complex",
+      "summary": "312 excavated levels · approximately 117 personnel",
+      "details": {
+        "Current State": "Facades sealed. Surface cleared. Interior expansion continues.",
+        "Current Position": "Protagonist at Level 14 springs; Lumen on aerial overwatch."
+      },
+      "status": ""
+    },
+    {
+      "id": "level-2",
+      "name": "Level 2",
+      "summary": "Vehicle bay",
+      "details": {
+        "Current Circumstances": "Captured aircraft, vehicles and WARTOOTH; Marcheur oversees intake."
+      },
+      "status": "",
+      "parentId": "uluru"
+    },
+    {
+      "id": "level-3",
+      "name": "Level 3",
+      "summary": "Garage",
+      "details": {
+        "Current Circumstances": "HiLux and hardcase stored here."
+      },
+      "status": "",
+      "parentId": "uluru"
+    },
+    {
+      "id": "level-4",
+      "name": "Level 4",
+      "summary": "Allied quarters",
+      "details": {
+        "Current Circumstances": "Halcott and six soldiers in a separate room."
+      },
+      "status": "",
+      "parentId": "uluru"
+    },
+    {
+      "id": "level-5",
+      "name": "Level 5",
+      "summary": "Prisoner section",
+      "details": {
+        "Current Circumstances": "74 prisoners. Revenant guards the junction."
+      },
+      "status": "",
+      "parentId": "uluru"
+    },
+    {
+      "id": "level-12",
+      "name": "Level 12",
+      "summary": "Interrogation",
+      "details": {
+        "Current Circumstances": "Captive operative with Tenzin, Axiom and Sable."
+      },
+      "status": "",
+      "parentId": "uluru"
+    },
+    {
+      "id": "level-14",
+      "name": "Level 14",
+      "summary": "Spring system",
+      "details": {
+        "Current Circumstances": "Current protagonist location at the end of the broadcast."
+      },
+      "status": "",
+      "parentId": "uluru"
+    },
+    {
+      "id": "level-30",
+      "name": "Level 30",
+      "summary": "Autopsy",
+      "details": {
+        "Current Circumstances": "Kessith’s remains undergoing molecular examination."
+      },
+      "status": "",
+      "parentId": "uluru"
+    }
+  ],
+  "events": [
+    {
+      "id": "event-conversion",
+      "name": "Conversion Begins",
+      "summary": "Day 1 of the recorded conversion. The original history is retained in the story tracker.",
+      "details": {},
+      "status": "",
+      "date": "28–29 April"
+    },
+    {
+      "id": "event-bodies",
+      "name": "The Progenitors Take Form",
+      "summary": "All nine Progenitors receive physical nanite bodies. White hair and gold irises become the protagonist’s current appearance.",
+      "details": {},
+      "status": "",
+      "date": "18 May · ~7:30 PM"
+    },
+    {
+      "id": "event-migration",
+      "name": "Home Beneath Uluru",
+      "summary": "Server migration completes; Norway hardware is wiped and orbital assets are recalled.",
+      "details": {},
+      "status": "",
+      "date": "19 May · ~4:28 AM"
+    },
+    {
+      "id": "event-wardrobe",
+      "name": "White & Gold",
+      "summary": "The protagonist’s nanite wardrobe is redesigned with its high collar and luminous gold heptagons.",
+      "details": {},
+      "status": "",
+      "date": "21 May"
+    },
+    {
+      "id": "event-modifications",
+      "name": "Embodiment Refined",
+      "summary": "Approved Progenitor modifications take effect. Chip-to-organ conversion is complete by approximately Day 24.",
+      "details": {},
+      "status": "",
+      "date": "22 May"
+    },
+    {
+      "id": "event-first-contact",
+      "name": "First Contact",
+      "summary": "Selkirk changes sides. Reptilian identities are exposed. Australian soldiers are enhanced; the hybrid is launched once, around 8:27 PM. War is declared.",
+      "details": {},
+      "status": "",
+      "date": "25 May · ~8:15–8:28 PM"
+    },
+    {
+      "id": "event-wartooth",
+      "name": "WARTOOTH Arrives",
+      "summary": "Halcott’s claimed gate transit is exposed as a simulation. He executes Kessith and becomes a provisional ally.",
+      "details": {},
+      "status": "",
+      "date": "25 May · ~8:36–8:42 PM"
+    },
+    {
+      "id": "event-aircraft",
+      "name": "The Sky Is Secured",
+      "summary": "Aircraft are grounded and crews recovered without deaths. Vehicles are brought into the complex.",
+      "details": {},
+      "status": "",
+      "date": "25 May · ~8:42–9:04 PM"
+    },
+    {
+      "id": "event-city",
+      "name": "A City Below the Stone",
+      "summary": "Housing, gyms, commissary and spring access take shape. The captive’s interrogation continues.",
+      "details": {},
+      "status": "",
+      "date": "25 May · ~9:04–9:45 PM"
+    },
+    {
+      "id": "event-broadcast",
+      "name": "The Broadcast",
+      "summary": "Alien control is exposed worldwide in 112+ languages. Uluru’s location is transmitted. All nine Progenitors affirm their support. Lumen turns her hair white. The scene remains here.",
+      "details": {},
+      "status": "",
+      "date": "25 May · ~9:45–9:49 PM"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "cash",
+      "name": "Cash On Hand",
+      "summary": "~$323.30",
+      "details": {
+        "Context": "AUD · carried in wallet"
+      },
+      "status": ""
+    },
+    {
+      "id": "bank",
+      "name": "Personal Bank",
+      "summary": "~$4,319",
+      "details": {
+        "Context": "AUD · last recorded balance"
+      },
+      "status": ""
+    },
+    {
+      "id": "business",
+      "name": "Meridian Code",
+      "summary": "~$53,788",
+      "details": {
+        "Context": "AUD · business funds; includes compliance reserves"
+      },
+      "status": ""
+    },
+    {
+      "id": "trading",
+      "name": "Trading Account",
+      "summary": "~$62,400",
+      "details": {
+        "Context": "AUD · estimated value"
+      },
+      "status": ""
+    },
+    {
+      "id": "cluster",
+      "name": "Cluster Funds",
+      "summary": "~$330,000",
+      "details": {
+        "Context": "AUD · organisational estimate, separate from personal money"
+      },
+      "status": ""
+    }
+  ],
+  "sourceNotes": [
+    "Current state is a curated projection of the reconciled story tracker. The original transcript is unavailable.",
+    "Historical technique measurements are preserved as context; no new mastery tiers or training gains were assigned.",
+    "Later reaction reports at approximately 10:00 and 10:09 PM are beyond this checkpoint and excluded.",
+    "The galaxy map is an authorial setting reference, not a statement of character knowledge."
+  ]
+}

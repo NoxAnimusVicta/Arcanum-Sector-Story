@@ -15,7 +15,7 @@
     },
     {
       "path": "reference/arcanum_story_tracker.md",
-      "sha256": "35da3a06ada9cb782e6ad04499dc7f986ff8cb7a4bc390719df99b9dde1d452e"
+      "sha256": "6df40711a786162c0f4341f9f2f3c3285fe8bfebba70c874cb63545d03085a32"
     },
     {
       "path": "reference/art/01-annunaki-ceremonial.jpg",
@@ -74,5 +74,5 @@
       "sha256": "5647a05b33aebf3613f14e853e85b474095782e0362836c5ea18e6a796e49351"
     }
   ],
-  "edition": "Public edition, reconciled 2026-10-04; user-confirmed visual references"
+  "edition": "Public edition; companion added 2026-11-18; current tracker replaced by summary, full log local"
 }
